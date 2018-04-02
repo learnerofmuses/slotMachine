@@ -1,0 +1,8 @@
+#include<stdio.h>
+
+int isletter(sijs);
+int letter_percent();
+int sum_divisor(num); 
+int isabundant(d); 
+
+

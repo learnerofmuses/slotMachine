@@ -1,0 +1,27 @@
+#write a function sign that has one parameters num 
+#the function checks and prints if num is positive, negative or zero 
+
+#wtie a program that reads three numbers and for each number 
+#prints the sign (positive, negative or zero)
+
+def sign(num): 
+	if(num > 0)"
+		print("positive")
+	elif (num < 0):
+		print("negative")
+	else:
+		print("zero")
+def main():
+	n1 = int(input("enter first int "))
+	n2 = int(input("enter second int "))
+	n3 = int(input("enter third int "))
+
+	print("the signs of inputs are ")
+	print(n1)
+	sign(n1)
+	print(n2)
+	sign(n2)
+	print(n3)
+	sign(n3)
+
+main()

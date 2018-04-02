@@ -1,0 +1,1009 @@
+From MAILER-DAEMON Wed Apr 29 15:33:14 2015
+Date: 29 Apr 2015 15:33:14 -0400
+From: Mail System Internal Data <MAILER-DAEMON@faye.cs.widener.edu>
+Subject: DON'T DELETE THIS MESSAGE -- FOLDER INTERNAL DATA
+Message-ID: <1430335994@faye.cs.widener.edu>
+X-IMAP: 1427908474 0000000018
+Status: RO
+
+This text is part of the internal format of your mail folder, and is not
+a real message.  It is created automatically by the mail system software.
+If deleted, important folder data will be lost, and it will be re-created
+with the data reset to initial values.
+
+From scott@faye.cs.widener.edu Wed Apr  1 13:16:55 2015 -0400
+Date: Wed, 1 Apr 2015 13:16:54 -0400 (EDT)
+From: Tyler Scott <scott@faye.cs.widener.edu>
+To: Yana Kortsarts <yanako@faye.cs.widener.edu>
+Subject: lab 3 problem 1
+Message-ID: <alpine.LNX.2.02.1504011316250.10763@faye.cs.widener.edu>
+User-Agent: Alpine 2.02 (LNX 1266 2009-07-14)
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY="529731754-1677969046-1427908614=:10763"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 1
+
+--529731754-1677969046-1427908614=:10763
+Content-Type: TEXT/PLAIN; format=flowed; charset=US-ASCII
+
+
+--529731754-1677969046-1427908614=:10763
+Content-Type: TEXT/PLAIN; charset=US-ASCII; name=lab3p1.c
+Content-Transfer-Encoding: BASE64
+Content-ID: <alpine.LNX.2.02.1504011316540.10763@faye.cs.widener.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=lab3p1.c
+
+LypXcml0ZSBhIHByb2dyYW0gdGhhdCByZWFkcyBhIHNlcXVlbmNlIG9mIDEw
+IGNoYXJhY3RlcnMgYW5kIHByaW50cyB0aGUgDQpBU0NJSSB2YWx1ZSBmb3Ig
+ZWFjaCBjaGFyYWN0ZXIgYW5kIGZpbmRzIHRoZSBudW1iZXIgb2YgY2hhcmFj
+dGVycyB0aGF0IA0KYXJlIGVxdWFsICcqJy4NCg0KKi8NCg0KI2luY2x1ZGU8
+c3RkaW8uaD4NCg0KaW50IG1haW4oKXsNCgljaGFyIHY7DQoJaW50IGNvdW50
+PTAsIGksIG47DQoJcHJpbnRmKCJlbnRlciAxMCBjaGFyYWN0ZXJzOlxuIik7
+DQoJZm9yKGk9MDsgaTw9MTA7IGkrKyl7DQoJCXY9Z2V0Y2hhcigpOw0KCQlu
+PShpbnQpKHYpOw0KCQlwcmludGYoIiVkXG4iLCBuKTsNCgkJaWYodj09Jyon
+KXsNCgkJCWNvdW50Kys7DQoJCX0NCgl9DQoJcHJpbnRmKCJ0aGVyZSBhcmUg
+JWQgKidzXG4iLCBjb3VudCk7DQoJcmV0dXJuIDA7DQp9DQo=
+
+--529731754-1677969046-1427908614=:10763--
+
+From scott@faye.cs.widener.edu Wed Apr  1 13:21:33 2015 -0400
+Date: Wed, 1 Apr 2015 13:21:33 -0400 (EDT)
+From: Tyler Scott <scott@faye.cs.widener.edu>
+To: Yana Kortsarts <yanako@faye.cs.widener.edu>
+Subject: lab 3 problem 1 modified
+Message-ID: <alpine.LNX.2.02.1504011321050.10813@faye.cs.widener.edu>
+User-Agent: Alpine 2.02 (LNX 1266 2009-07-14)
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY="529731754-1731943413-1427908893=:10813"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 2
+
+--529731754-1731943413-1427908893=:10813
+Content-Type: TEXT/PLAIN; format=flowed; charset=US-ASCII
+
+--529731754-1731943413-1427908893=:10813
+Content-Type: TEXT/PLAIN; charset=US-ASCII; name=lab3p1.c
+Content-Transfer-Encoding: BASE64
+Content-ID: <alpine.LNX.2.02.1504011321330.10813@faye.cs.widener.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=lab3p1.c
+
+LypXcml0ZSBhIHByb2dyYW0gdGhhdCByZWFkcyBhIHNlcXVlbmNlIG9mIDEw
+IGNoYXJhY3RlcnMgYW5kIHByaW50cyB0aGUgDQpBU0NJSSB2YWx1ZSBmb3Ig
+ZWFjaCBjaGFyYWN0ZXIgYW5kIGZpbmRzIHRoZSBudW1iZXIgb2YgY2hhcmFj
+dGVycyB0aGF0IA0KYXJlIGVxdWFsICcqJy4NCg0KKi8NCg0KI2luY2x1ZGU8
+c3RkaW8uaD4NCg0KaW50IG1haW4oKXsNCgljaGFyIHY7DQoJaW50IGNvdW50
+PTAsIGksIG47DQoJcHJpbnRmKCJlbnRlciAxMCBjaGFyYWN0ZXJzOlxuIik7
+DQoJZm9yKGk9MDsgaTw9OTsgaSsrKXsNCgkJdj1nZXRjaGFyKCk7DQoJCW49
+KGludCkodik7DQoJCXByaW50ZigiJWRcbiIsIG4pOw0KCQlpZih2PT0nKicp
+ew0KCQkJY291bnQrKzsNCgkJfQ0KCX0NCglwcmludGYoInRoZXJlIGFyZSAl
+ZCAqJ3NcbiIsIGNvdW50KTsNCglyZXR1cm4gMDsNCn0NCg==
+
+--529731754-1731943413-1427908893=:10813--
+
+From scott@faye.cs.widener.edu Wed Apr  1 13:50:24 2015 -0400
+Date: Wed, 1 Apr 2015 13:50:24 -0400 (EDT)
+From: Tyler Scott <scott@faye.cs.widener.edu>
+To: Yana Kortsarts <yanako@faye.cs.widener.edu>
+Subject: lab 3 problem 2
+Message-ID: <alpine.LNX.2.02.1504011349530.12589@faye.cs.widener.edu>
+User-Agent: Alpine 2.02 (LNX 1266 2009-07-14)
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY="529731754-1089841086-1427910624=:12589"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 3
+
+--529731754-1089841086-1427910624=:12589
+Content-Type: TEXT/PLAIN; format=flowed; charset=US-ASCII
+
+
+--529731754-1089841086-1427910624=:12589
+Content-Type: TEXT/PLAIN; charset=US-ASCII; name=lab3p2.c
+Content-Transfer-Encoding: BASE64
+Content-ID: <alpine.LNX.2.02.1504011350240.12589@faye.cs.widener.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=lab3p2.c
+
+LyogV3JpdGUgYSBwcm9ncmFtIHRoYXQgcmVhZHMgYSBzZXF1ZW5jZSBvZiBj
+aGFyYWN0ZXJzLCBjaGFyYWN0ZXIgJyUnIA0Kd2lsbCB0ZXJtaW5hdGUgdGhl
+IGlucHV0LiBmaW5kcyB0aGUgbnVtYmVyIG9mIGxvd2VyIGNhc2UgbGV0dGVy
+cywgdGhlIG51bWJlciANCm9mIHVwcGVyIGNhc2UgbGV0dGVycywgYW5kIHRo
+ZSBudW1iZXIgb2YgZGlnaXRzLiAqLw0KDQojaW5jbHVkZTxzdGRpby5oPg0K
+DQppbnQgbWFpbigpew0KDQoJY2hhciBsOw0KCWludCBMYz0wLCBVYz0wLCBk
+aWc9MDsNCglwcmludGYoImVudGVyIHRoZSBudW1iZXIgb2YgY2hhcmFjdGVy
+czpcbiIpOw0KCWw9Z2V0Y2hhcigpOw0KCXdoaWxlKGwhPSclJyl7DQoJCWlm
+KGwgPj0gJ2EnICYmIGwgPD0gJ3onKXsNCgkJCUxjKys7DQoJCX0NCgkJZWxz
+ZSBpZihsID49ICdBJyAmJiBsIDw9ICdaJyl7DQoJCQlVYysrOw0KCQl9DQoJ
+CWVsc2UgaWYobCA+PSAnMCcgJiYgbCA8PSAnOScpew0KCQkJZGlnKys7DQoJ
+CX0NCgkJbD1nZXRjaGFyKCk7DQoJfQ0KCWlmKExjPT0wKXsNCgkJcHJpbnRm
+KCJ0aGVyZSBhcmUgbm8gbG93ZXJjYXNlIGxldHRlcnNcbiIpOw0KCX0NCgll
+bHNlew0KCQlwcmludGYoInRoZXJlIGFyZSAlZCBsb3dlcmNhc2UgbGV0dGVy
+c1xuIiwgTGMpOw0KCX0NCglpZihVYz09MCl7DQoJCXByaW50ZigidGhlcmUg
+YXJlIG5vIHVwcGVyY2FzZSBsZXR0ZXJzXG4iKTsNCgl9DQoJZWxzZXsNCgkJ
+cHJpbnRmKCJ0aGVyZSBhcmUgJWQgdXBwZXJjYXNlIGxldHRlcnNcbiIsIFVj
+KTsNCgl9DQoJaWYoZGlnPT0wKXsNCgkJcHJpbnRmKCJ0aGVyZSBhcmUgbm8g
+ZGlnaXRzXG4iLCBkaWcpOw0KCX0NCgllbHNlew0KCQlwcmludGYoInRoZXJl
+IGFyZSAlZCBkaWdpdHNcbiIpOw0KCX0NCglyZXR1cm4gMDsNCn0NCgkNCg==
+
+--529731754-1089841086-1427910624=:12589--
+
+From scott@faye.cs.widener.edu Wed Apr  1 14:56:47 2015 -0400
+Date: Wed, 1 Apr 2015 14:56:47 -0400 (EDT)
+From: Tyler Scott <scott@faye.cs.widener.edu>
+To: Yana Kortsarts <yanako@faye.cs.widener.edu>
+Subject: lab 3 problem 3
+Message-ID: <alpine.LNX.2.02.1504011456290.20201@faye.cs.widener.edu>
+User-Agent: Alpine 2.02 (LNX 1266 2009-07-14)
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY="529731754-693301054-1427914607=:20201"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 4
+
+--529731754-693301054-1427914607=:20201
+Content-Type: TEXT/PLAIN; format=flowed; charset=US-ASCII
+
+--529731754-693301054-1427914607=:20201
+Content-Type: TEXT/PLAIN; charset=US-ASCII; name=lab3p3.c
+Content-Transfer-Encoding: BASE64
+Content-ID: <alpine.LNX.2.02.1504011456470.20201@faye.cs.widener.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=lab3p3.c
+
+LypXcml0ZSBhIEMgcHJvZ3JhbSBtZW51LmMgdGhhdCB3aWxsIHByaW50IHRo
+ZSBwcm9ncmFtIG1lbnUuIFRoZSBwcm9ncmFtIA0KcHJvbXB0cyB0aGUgdXNl
+ciB0byBlbnRlciBvbmUgaW50ZWdlciBudW1iZXIsIHRoaXMgbnVtYmVyIHdp
+bGwgYmUgdXNlZCANCmluIHRoZSBwcm9ncmFtIHRvIGluZGljYXRlIHRoZSBz
+cGVjaWZpYyBtZW51IGNob2ljZS4gWW91IHNob3VsZCBjb25zaWRlciANCnRo
+ZSBmb2xsb3dpbmcgY2hvaWNlczogaW5wdXQgMCAtIGV4aXQgZnJvbSB0aGUg
+bWVudSwgMSAtIHByb2dyYW0gYXNrcyANCnRoZSB1c2VyIHRvIGVudGVyIDEw
+IGludGVnZXIgbnVtYmVycyBhbmQgdGhlIHByb2dyYW0gd2lsbCBmaW5kIHRo
+ZSANCm1heGltdW0gYW5kIHRoZSBtaW5pbXVtIGFtb25nIHRoZSBpbnB1dHMs
+IDIgLSBwcm9ncmFtIGFza3MgdGhlIHVzZXIgdG8gDQplbnRlciB0aGUgaW50
+ZWdlciBhbmQgY2hlY2tzIGlmIHRoZSBpbnB1dCBudW1iZXIgZXZlbiBvciBv
+ZGQsIDMgLSANCnByb2dyYW0gcHJpbnRzIGFsbCB0d28tZGlnaXQgbnVtYmVy
+cyBkaXZpc2libGUgYnkgdGhlIHN1bSBvZiB0aGVpciANCmRpZ2l0cyAqLw0K
+DQoNCiNpbmNsdWRlPHN0ZGlvLmg+DQoNCmludCBtYXhfbWluKCk7DQppbnQg
+b2RkX2V2ZW4oKTsNCmludCBkaXZpc29yKCk7DQp2b2lkIE1lbnUoaW50IGNo
+b2ljZSk7DQoNCmludCBtYWluKCl7DQoJaW50IGNob2ljZTsNCglwcmludGYo
+ImVudGVyIGNob2ljZTpcbiIpOw0KCXNjYW5mKCIlZCIsICZjaG9pY2UpOw0K
+CXdoaWxlKGNob2ljZSAhPSAwKXsNCgkJTWVudShjaG9pY2UpOw0KCQlwcmlu
+dGYoImVudGVyIHlvdXIgY2hvaWNlLCAxLCAyLCBvciAzLiAwIHdpbGwgdGVy
+bWluYXRlOlxuIik7DQoJCXNjYW5mKCIlZCIsICZjaG9pY2UpOw0KCX0NCgly
+ZXR1cm4gMDsNCn0NCnZvaWQgTWVudShpbnQgY2hvaWNlKXsNCgkNCglzd2l0
+Y2goY2hvaWNlKXsNCgkJDQoJCWNhc2UgMDoNCgkJCXByaW50ZigicHJvZ3Jh
+bSBpcyB0ZXJtaW5hdGVkXG4iKTsNCgkJCWJyZWFrOw0KCQljYXNlIDE6DQoJ
+CQltYXhfbWluKCk7DQoJCQlicmVhazsNCgkJY2FzZSAyOg0KCQkJZXZlbl9v
+ZGQoKTsNCgkJCWJyZWFrOw0KCQljYXNlIDM6DQoJCQlkaXZpc29yKCk7DQoJ
+CQlicmVhazsNCgkJZGVmYXVsdDoNCgkJCXByaW50ZigiaW52YWxpZFxuIik7
+DQoJCQlicmVhazsNCgl9DQp9DQoNCg0KaW50IG1heF9taW4oKXsNCglpbnQg
+biwgbWF4LCBtaW4sIGk9MDsNCglwcmludGYoImVudGVyIDEwIGludGVnZXJz
+OlxuIik7DQoJc2NhbmYoIiVkIiwgJm4pOw0KCW1heCA9IG47DQoJbWluID0g
+bjsNCgl3aGlsZShpPDApew0KCQlzY2FuZigiJWQiLCAmbik7DQoJCQlpZihu
+Pm1heCl7DQoJCQkJbWF4PW47DQoJCQl9DQoJCQlpZihuPG1pbil7DQoJCQkJ
+bWluPW47DQoJCQl9DQoJCQlpKys7DQoJfQ0KCXByaW50ZigidGhlcmUgYXJl
+ICVkIG1heGltdW0gbnVtYmVyc1xuIiwgbWF4KTsNCglwcmludGYoInRoZXJl
+IGFyZSAlZCBtaW5pbXVtIG51bWJlcnNcbiIsIG1pbik7DQoJcmV0dXJuIDA7
+DQp9DQoNCmludCBldmVuX29kZCgpew0KCWludCBuOw0KCXByaW50ZigiZW50
+ZXIgYW4gaW50ZWdlcjpcbiIpOw0KCXNjYW5mKCIlZCIsICZuKTsNCglpZihu
+JTI9PTApew0KCQlwcmludGYoInRoaXMgaW50ZWdlciBpcyBldmVuXG4iKTsN
+Cgl9DQoJZWxzZXsNCgkJcHJpbnRmKCJ0aGlzIGludGVnZXIgaXMgb2RkXG4i
+KTsNCgl9DQp9DQoNCmludCBkaXZpc29yKCl7DQoJaW50IHQsIHN1bT0wLCBp
+PTEwOw0KCQ0KCXdoaWxlKGk8MTAwKXsNCgkJdD1pOw0KCQlzdW09aSUxMDsN
+CgkJdC89MTA7DQoJCXN1bSs9dDsNCgkJaWYoaSVzdW09PTApew0KCQkJcHJp
+bnRmKCIlZCBkaXZpc2libGUgYnkgc3VtXG4iLCBpKTsNCgkJfQ0KCQlpKys7
+DQoJfQ0KCXJldHVybiAwOw0KfQ0KDQo=
+
+--529731754-693301054-1427914607=:20201--
+
+From scott@faye.cs.widener.edu Wed Apr  1 15:01:44 2015 -0400
+Date: Wed, 1 Apr 2015 15:01:44 -0400 (EDT)
+From: Tyler Scott <scott@faye.cs.widener.edu>
+To: Yana Kortsarts <yanako@faye.cs.widener.edu>
+Subject: lab 3 problem 3 modified
+Message-ID: <alpine.LNX.2.02.1504011501220.20897@faye.cs.widener.edu>
+User-Agent: Alpine 2.02 (LNX 1266 2009-07-14)
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY="529731754-306526357-1427914904=:20897"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 5
+
+--529731754-306526357-1427914904=:20897
+Content-Type: TEXT/PLAIN; format=flowed; charset=US-ASCII
+
+--529731754-306526357-1427914904=:20897
+Content-Type: TEXT/PLAIN; charset=US-ASCII; name=lab3p3.c
+Content-Transfer-Encoding: BASE64
+Content-ID: <alpine.LNX.2.02.1504011501440.20897@faye.cs.widener.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=lab3p3.c
+
+LypXcml0ZSBhIEMgcHJvZ3JhbSBtZW51LmMgdGhhdCB3aWxsIHByaW50IHRo
+ZSBwcm9ncmFtIG1lbnUuIFRoZSBwcm9ncmFtIA0KcHJvbXB0cyB0aGUgdXNl
+ciB0byBlbnRlciBvbmUgaW50ZWdlciBudW1iZXIsIHRoaXMgbnVtYmVyIHdp
+bGwgYmUgdXNlZCANCmluIHRoZSBwcm9ncmFtIHRvIGluZGljYXRlIHRoZSBz
+cGVjaWZpYyBtZW51IGNob2ljZS4gWW91IHNob3VsZCBjb25zaWRlciANCnRo
+ZSBmb2xsb3dpbmcgY2hvaWNlczogaW5wdXQgMCAtIGV4aXQgZnJvbSB0aGUg
+bWVudSwgMSAtIHByb2dyYW0gYXNrcyANCnRoZSB1c2VyIHRvIGVudGVyIDEw
+IGludGVnZXIgbnVtYmVycyBhbmQgdGhlIHByb2dyYW0gd2lsbCBmaW5kIHRo
+ZSANCm1heGltdW0gYW5kIHRoZSBtaW5pbXVtIGFtb25nIHRoZSBpbnB1dHMs
+IDIgLSBwcm9ncmFtIGFza3MgdGhlIHVzZXIgdG8gDQplbnRlciB0aGUgaW50
+ZWdlciBhbmQgY2hlY2tzIGlmIHRoZSBpbnB1dCBudW1iZXIgZXZlbiBvciBv
+ZGQsIDMgLSANCnByb2dyYW0gcHJpbnRzIGFsbCB0d28tZGlnaXQgbnVtYmVy
+cyBkaXZpc2libGUgYnkgdGhlIHN1bSBvZiB0aGVpciANCmRpZ2l0cyAqLw0K
+DQoNCiNpbmNsdWRlPHN0ZGlvLmg+DQoNCmludCBtYXhfbWluKCk7DQppbnQg
+b2RkX2V2ZW4oKTsNCmludCBkaXZpc29yKCk7DQp2b2lkIE1lbnUoaW50IGNo
+b2ljZSk7DQoNCmludCBtYWluKCl7DQoJaW50IGNob2ljZTsNCglwcmludGYo
+ImVudGVyIGNob2ljZTpcbiIpOw0KCXNjYW5mKCIlZCIsICZjaG9pY2UpOw0K
+CXdoaWxlKGNob2ljZSAhPSAwKXsNCgkJTWVudShjaG9pY2UpOw0KCQlwcmlu
+dGYoImVudGVyIHlvdXIgY2hvaWNlLCAxLCAyLCBvciAzLiAwIHdpbGwgdGVy
+bWluYXRlOlxuIik7DQoJCXNjYW5mKCIlZCIsICZjaG9pY2UpOw0KCX0NCgly
+ZXR1cm4gMDsNCn0NCnZvaWQgTWVudShpbnQgY2hvaWNlKXsNCgkNCglzd2l0
+Y2goY2hvaWNlKXsNCgkJDQoJCWNhc2UgMDoNCgkJCXByaW50ZigicHJvZ3Jh
+bSBpcyB0ZXJtaW5hdGVkXG4iKTsNCgkJCWJyZWFrOw0KCQljYXNlIDE6DQoJ
+CQltYXhfbWluKCk7DQoJCQlicmVhazsNCgkJY2FzZSAyOg0KCQkJZXZlbl9v
+ZGQoKTsNCgkJCWJyZWFrOw0KCQljYXNlIDM6DQoJCQlkaXZpc29yKCk7DQoJ
+CQlicmVhazsNCgkJZGVmYXVsdDoNCgkJCXByaW50ZigiaW52YWxpZFxuIik7
+DQoJCQlicmVhazsNCgl9DQp9DQoNCg0KaW50IG1heF9taW4oKXsNCglpbnQg
+biwgbWF4LCBtaW4sIGk9MDsNCglwcmludGYoImVudGVyIDEwIGludGVnZXJz
+OlxuIik7DQoJc2NhbmYoIiVkIiwgJm4pOw0KCW1heCA9IG47DQoJbWluID0g
+bjsNCgl3aGlsZShpPDkpew0KCQlzY2FuZigiJWQiLCAmbik7DQoJCQlpZihu
+Pm1heCl7DQoJCQkJbWF4PW47DQoJCQl9DQoJCQlpZihuPG1pbil7DQoJCQkJ
+bWluPW47DQoJCQl9DQoJCQlpKys7DQoJfQ0KCXByaW50ZigidGhlcmUgYXJl
+ICVkIG1heGltdW0gbnVtYmVyc1xuIiwgbWF4KTsNCglwcmludGYoInRoZXJl
+IGFyZSAlZCBtaW5pbXVtIG51bWJlcnNcbiIsIG1pbik7DQoJcmV0dXJuIDA7
+DQp9DQoNCmludCBldmVuX29kZCgpew0KCWludCBuOw0KCXByaW50ZigiZW50
+ZXIgYW4gaW50ZWdlcjpcbiIpOw0KCXNjYW5mKCIlZCIsICZuKTsNCglpZihu
+JTI9PTApew0KCQlwcmludGYoInRoaXMgaW50ZWdlciBpcyBldmVuXG4iKTsN
+Cgl9DQoJZWxzZXsNCgkJcHJpbnRmKCJ0aGlzIGludGVnZXIgaXMgb2RkXG4i
+KTsNCgl9DQp9DQoNCmludCBkaXZpc29yKCl7DQoJaW50IHQsIHN1bT0wLCBp
+PTEwOw0KCQ0KCXdoaWxlKGk8MTAwKXsNCgkJdD1pOw0KCQlzdW09aSUxMDsN
+CgkJdC89MTA7DQoJCXN1bSs9dDsNCgkJaWYoaSVzdW09PTApew0KCQkJcHJp
+bnRmKCIlZCBkaXZpc2libGUgYnkgc3VtXG4iLCBpKTsNCgkJfQ0KCQlpKys7
+DQoJfQ0KCXJldHVybiAwOw0KfQ0KDQo=
+
+--529731754-306526357-1427914904=:20897--
+
+From scott@faye.cs.widener.edu Wed Apr  1 15:50:16 2015 -0400
+Date: Wed, 1 Apr 2015 15:50:16 -0400 (EDT)
+From: Tyler Scott <scott@faye.cs.widener.edu>
+To: Yana Kortsarts <yanako@faye.cs.widener.edu>
+Subject: lab 3 problem 4 
+Message-ID: <alpine.LNX.2.02.1504011549560.23087@faye.cs.widener.edu>
+User-Agent: Alpine 2.02 (LNX 1266 2009-07-14)
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY="529731754-690400837-1427917816=:23087"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 6
+
+--529731754-690400837-1427917816=:23087
+Content-Type: TEXT/PLAIN; format=flowed; charset=US-ASCII
+
+
+--529731754-690400837-1427917816=:23087
+Content-Type: TEXT/PLAIN; charset=US-ASCII; name=lab3p4.c
+Content-Transfer-Encoding: BASE64
+Content-ID: <alpine.LNX.2.02.1504011550160.23087@faye.cs.widener.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=lab3p4.c
+
+LyogV3JpdGUgYSBwcm9ncmFtIHRoYXQgcHJvbXB0cyB0aGUgdXNlciB0byBl
+bnRlciBvbmUgY2hhcmFjdGVyLiBZb3UgDQpoYXZlIA0KdG8gdXNlIHN3aXRj
+aCBzdGF0ZW1lbnQgaW4geW91ciBwcm9ncmFtIGluIG9yZGVyIHRvIGRvIHRo
+ZSBmb2xsb3dpbmc6IGlmIA0KdGhlIGlucHV0IGNoYXJhY3RlciBpcyAnYics
+IHRoZSBwcm9ncmFtIHJlYWRzIG9uZSBudW1iZXIgb2YgdHlwZSBkb3VibGUg
+DQphbmQgcHJpbnRzIHRoaXMgbnVtYmVyIDUgdGltZXMgb24gb25lIGxpbmUs
+IG51bWJlcnMgc2hvdWxkIGJlIHNlcGFyYXRlZCANCmJ5IHRhYi4gKHlvdSBz
+aG91bGQgdXNlIGxvb3AgdG8gZG8gaXQpOyBpZiB0aGUgaW5wdXQgY2hhcmFj
+dGVyIGlzICdkJywgDQp0aGUgcHJvZ3JhbSBwcmludHMgdGhlIGZvbGxvd2lu
+ZyByZWN0YW5nbGU6DQphYWFiYmINCmJiYmFhYQ0KYWFhYmJiDQpiYmJhYWEN
+CmFhYWJiYg0KYmJiYWFhDQp5b3UgaGF2ZSB0byB1c2UgbG9vcCB0byBkbyB0
+aGlzIChUUlkgVE8gTUFLRSBJVCBBUyBTSE9SVCBBUyBQT1NTSUJMRSksIA0K
+YW5kIGlmIHRoZSBpbnB1dCBjaGFyYWN0ZXIgaXMgJ3AnLCB0aGUgcHJvZ3Jh
+bSB3aWxsIGZpbmQgdGhlIHByb2R1Y3Qgb2YgDQphbGwgb2RkIG51bWJlcnMg
+YmV0d2VlbiAxIGFuZCAxNSAoaW5jbHVkaW5nIDE1KSAoIHlvdSBzaG91bGQg
+dXNlIGxvb3AgaW4gDQp0aGlzIHBhcnQpOyBpZiB0aGUgaW5wdXQgY2hhcmFj
+dGVyIGlzIG5vdCAnYicsICdkJyBvciAncCcsIHRoZSBwcm9ncmFtIA0Kd2ls
+bCBwcmludCB0aGUgaW5wdXQgY2hhcmFjdGVyIDUgdGltZXMgb24gZGlmZmVy
+ZW50IGxpbmVzICh5b3Ugc2hvdWxkIA0KdXNlIGxvb3AgdG8gZG8gaXQpLiAq
+LyANCg0KI2luY2x1ZGU8c3RkaW8uaD4NCg0KaW50IG1haW4oKXsNCglpbnQg
+aT0xLCBwcm9kPTE7IA0KCWRvdWJsZSBudW07DQoJY2hhciBhOyANCg0KCXBy
+aW50ZigiZW50ZXIgYSBjaGFyYWN0ZXI6XG4iKTsNCglzY2FuZigiJWMiLCAm
+YSk7DQoJDQoJc3dpdGNoKGEpew0KDQoJCWNhc2UgJ2InOg0KCQkJcHJpbnRm
+KCJlbnRlciBudW1iZXI6XG4iKTsNCgkJCXNjYW5mKCIlbGYiLCAmbnVtKTsN
+CgkJCWZvcihpPTA7IGk8PTU7IGkrKyl7DQoJCQkJcHJpbnRmKCIlZiIsIG51
+bSk7DQoJCQkJcHJpbnRmKCJcbiIpOw0KCQkJfQ0KCQkJYnJlYWs7DQoJCWNh
+c2UgJ2QnOg0KCQkJZm9yKGk9MTsgaTw9NjsgaSsrKXsNCgkJCQlpZihpJTI9
+PTApew0KCQkJCQlwcmludGYoImJiYmFhYVxuIik7DQoJCQkJfQ0KCQkJCWVs
+c2V7DQoJCQkJCXByaW50ZigiYWFhYmJcbiIpOw0KCQkJCX0NCgkJCX0NCgkJ
+CWJyZWFrOw0KCQljYXNlICdwJzoNCgkJCXdoaWxlKGk8PTE1KXsNCgkJCQlw
+cm9kKj1pOw0KCQkJCWk9aSsyOw0KCQkJfQ0KCQkJcHJpbnRmKCJwcm9kdWN0
+IG9mIG9kZHM6ICVkXG4iLCBwcm9kKTsNCgkJCWJyZWFrOw0KCQlkZWZhdWx0
+Og0KCQkJZm9yKGk9MDsgaTw1OyBpKyspew0KCQkJCXByaW50ZigiJWMiLCBh
+KTsNCgkJCQlwcmludCgiXG4iKTsNCgkJCQlicmVhazsNCgkJCX0NCgkJfQkJ
+DQp9DQo=
+
+--529731754-690400837-1427917816=:23087--
+
+From scott@faye.cs.widener.edu Wed Apr  1 15:52:16 2015 -0400
+Date: Wed, 1 Apr 2015 15:52:16 -0400 (EDT)
+From: Tyler Scott <scott@faye.cs.widener.edu>
+To: Yana Kortsarts <yanako@faye.cs.widener.edu>
+Subject: lab 3 problem 4 modified 
+Message-ID: <alpine.LNX.2.02.1504011551430.23121@faye.cs.widener.edu>
+User-Agent: Alpine 2.02 (LNX 1266 2009-07-14)
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY="529731754-564200019-1427917936=:23121"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 7
+
+--529731754-564200019-1427917936=:23121
+Content-Type: TEXT/PLAIN; format=flowed; charset=US-ASCII
+
+
+--529731754-564200019-1427917936=:23121
+Content-Type: TEXT/PLAIN; charset=US-ASCII; name=lab3p4.c
+Content-Transfer-Encoding: BASE64
+Content-ID: <alpine.LNX.2.02.1504011552160.23121@faye.cs.widener.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=lab3p4.c
+
+LyogV3JpdGUgYSBwcm9ncmFtIHRoYXQgcHJvbXB0cyB0aGUgdXNlciB0byBl
+bnRlciBvbmUgY2hhcmFjdGVyLiBZb3UgDQpoYXZlIA0KdG8gdXNlIHN3aXRj
+aCBzdGF0ZW1lbnQgaW4geW91ciBwcm9ncmFtIGluIG9yZGVyIHRvIGRvIHRo
+ZSBmb2xsb3dpbmc6IGlmIA0KdGhlIGlucHV0IGNoYXJhY3RlciBpcyAnYics
+IHRoZSBwcm9ncmFtIHJlYWRzIG9uZSBudW1iZXIgb2YgdHlwZSBkb3VibGUg
+DQphbmQgcHJpbnRzIHRoaXMgbnVtYmVyIDUgdGltZXMgb24gb25lIGxpbmUs
+IG51bWJlcnMgc2hvdWxkIGJlIHNlcGFyYXRlZCANCmJ5IHRhYi4gKHlvdSBz
+aG91bGQgdXNlIGxvb3AgdG8gZG8gaXQpOyBpZiB0aGUgaW5wdXQgY2hhcmFj
+dGVyIGlzICdkJywgDQp0aGUgcHJvZ3JhbSBwcmludHMgdGhlIGZvbGxvd2lu
+ZyByZWN0YW5nbGU6DQphYWFiYmINCmJiYmFhYQ0KYWFhYmJiDQpiYmJhYWEN
+CmFhYWJiYg0KYmJiYWFhDQp5b3UgaGF2ZSB0byB1c2UgbG9vcCB0byBkbyB0
+aGlzIChUUlkgVE8gTUFLRSBJVCBBUyBTSE9SVCBBUyBQT1NTSUJMRSksIA0K
+YW5kIGlmIHRoZSBpbnB1dCBjaGFyYWN0ZXIgaXMgJ3AnLCB0aGUgcHJvZ3Jh
+bSB3aWxsIGZpbmQgdGhlIHByb2R1Y3Qgb2YgDQphbGwgb2RkIG51bWJlcnMg
+YmV0d2VlbiAxIGFuZCAxNSAoaW5jbHVkaW5nIDE1KSAoIHlvdSBzaG91bGQg
+dXNlIGxvb3AgaW4gDQp0aGlzIHBhcnQpOyBpZiB0aGUgaW5wdXQgY2hhcmFj
+dGVyIGlzIG5vdCAnYicsICdkJyBvciAncCcsIHRoZSBwcm9ncmFtIA0Kd2ls
+bCBwcmludCB0aGUgaW5wdXQgY2hhcmFjdGVyIDUgdGltZXMgb24gZGlmZmVy
+ZW50IGxpbmVzICh5b3Ugc2hvdWxkIA0KdXNlIGxvb3AgdG8gZG8gaXQpLiAq
+LyANCg0KI2luY2x1ZGU8c3RkaW8uaD4NCg0KaW50IG1haW4oKXsNCglpbnQg
+aT0xLCBwcm9kPTE7IA0KCWRvdWJsZSBudW07DQoJY2hhciBhOyANCg0KCXBy
+aW50ZigiZW50ZXIgYSBjaGFyYWN0ZXI6XG4iKTsNCglzY2FuZigiJWMiLCAm
+YSk7DQoJDQoJc3dpdGNoKGEpew0KDQoJCWNhc2UgJ2InOg0KCQkJcHJpbnRm
+KCJlbnRlciBudW1iZXI6XG4iKTsNCgkJCXNjYW5mKCIlbGYiLCAmbnVtKTsN
+CgkJCWZvcihpPTA7IGk8PTU7IGkrKyl7DQoJCQkJcHJpbnRmKCIlZiIsIG51
+bSk7DQoJCQkJcHJpbnRmKCJcbiIpOw0KCQkJfQ0KCQkJYnJlYWs7DQoJCWNh
+c2UgJ2QnOg0KCQkJZm9yKGk9MTsgaTw9NjsgaSsrKXsNCgkJCQlpZihpJTI9
+PTApew0KCQkJCQlwcmludGYoImJiYmFhYVxuIik7DQoJCQkJfQ0KCQkJCWVs
+c2V7DQoJCQkJCXByaW50ZigiYWFhYmJcbiIpOw0KCQkJCX0NCgkJCX0NCgkJ
+CWJyZWFrOw0KCQljYXNlICdwJzoNCgkJCXdoaWxlKGk8PTE1KXsNCgkJCQlw
+cm9kKj1pOw0KCQkJCWk9aSsyOw0KCQkJfQ0KCQkJcHJpbnRmKCJwcm9kdWN0
+IG9mIG9kZHM6ICVkXG4iLCBwcm9kKTsNCgkJCWJyZWFrOw0KCQlkZWZhdWx0
+Og0KCQkJZm9yKGk9MDsgaTw1OyBpKyspew0KCQkJCXByaW50ZigiJWMiLCBh
+KTsNCgkJCQlwcmludCgiXG4iKTsNCgkJCQlicmVhazsNCgkJCX0NCgkJfQ0K
+CQlyZXR1cm4gMDsJCQ0KfQ0K
+
+--529731754-564200019-1427917936=:23121--
+
+From scott@faye.cs.widener.edu Wed Apr  8 14:12:59 2015 -0400
+Date: Wed, 8 Apr 2015 14:12:58 -0400 (EDT)
+From: Tyler Scott <scott@faye.cs.widener.edu>
+To: Yana Kortsarts <yanako@faye.cs.widener.edu>
+Message-ID: <alpine.LNX.2.02.1504081412420.19401@faye.cs.widener.edu>
+User-Agent: Alpine 2.02 (LNX 1266 2009-07-14)
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY="529731754-661856157-1428516778=:19401"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 8
+
+--529731754-661856157-1428516778=:19401
+Content-Type: TEXT/PLAIN; format=flowed; charset=US-ASCII
+
+
+--529731754-661856157-1428516778=:19401
+Content-Type: TEXT/PLAIN; charset=US-ASCII; name=lab4p1.c
+Content-Transfer-Encoding: BASE64
+Content-ID: <alpine.LNX.2.02.1504081412580.19401@faye.cs.widener.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=lab4p1.c
+
+LyogbGFiIDQqLw0KDQojaW5jbHVkZTxzdGRpby5oPg0KI2luY2x1ZGU8c3Rk
+bGliLmg+DQojaW5jbHVkZTx0aW1lLmg+DQojZGVmaW5lIFNJWkUgMjAgDQoN
+CmludCBtYWluKCl7DQoJDQoNCglpbnQgbnVtW1NJWkVdLCBpLCByZWFsU2l6
+ZSwgc0V2ZW49MCwgY0V2ZW49MDsgDQoJZG91YmxlIGFFdmVuOyAgDQoJc3Jh
+bmQodGltZShOVUxMKSk7DQoJcmVhbFNpemUgPSA1K3JhbmQoKSAlIDE2OyAN
+CgkNCglmb3IoaT0wOyBpPHJlYWxTaXplOyBpKyspew0KCQlzRXZlbltpXTsN
+CgkJaWYobnVtW2ldJTI9PTApew0KCQkJc0V2ZW4rPW51bVtpXTsJDQoJCQlj
+RXZlbisrOw0KCQl9DQoJfQ0KCWZvcihpPTA7IGk8cmVhbFNpemU7IGkrKyl7
+DQoJCXByaW50ZigiJWQiLCAmbnVtW2ldKTsNCgl9DQoJcHJpbnRmKCJcbiIp
+Ow0KCWlmKGNFdmVuPjApew0KCQlhRXZlbj0oZG91YmxlKShzRXZlbikvY0V2
+ZW47DQoJCXByaW50ZigidGhlIGF2ZXJhZ2Ugb2YgZXZlbiBpbnRlZ2VycyBp
+cyVmXG4iLCBhRXZlbik7DQoJfQ0KCWVsc2V7DQoJCXByaW50ZigidGhlcmUg
+YXJlIG5vIGV2ZW4gbnVtYmVycyBcbiIpOyANCgl9DQoJcmV0dXJuIDA7IA0K
+DQp9DQo=
+
+--529731754-661856157-1428516778=:19401--
+
+From scott@megatron.cs.widener.edu Fri Apr 10 11:25:36 2015 -0400
+Date: Fri, 10 Apr 2015 11:25:36 -0400 (EDT)
+From: Tyler Scott <scott@megatron.cs.widener.edu>
+To: Yana Kortsarts <yanako@megatron.cs.widener.edu>
+Message-ID: <alpine.LNX.2.02.1504101122350.17147@megatron.cs.widener.edu>
+User-Agent: Alpine 2.02 (LNX 1266 2009-07-14)
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY="529729706-497101178-1428679536=:17164"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 9
+
+--529729706-497101178-1428679536=:17164
+Content-Type: TEXT/PLAIN; format=flowed; charset=US-ASCII
+
+could not figure out how to get num of elements to equal 0 and how trouble 
+with printAscii func
+--529729706-497101178-1428679536=:17164
+Content-Type: TEXT/PLAIN; charset=US-ASCII; name=test2p1.c
+Content-Transfer-Encoding: BASE64
+Content-ID: <alpine.LNX.2.02.1504101125360.17164@megatron.cs.widener.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=test2p1.c
+
+I2luY2x1ZGU8c3RkaW8uaD4NCg0KaW50IGNvdW50X3BsdXMoKTsNCmludCBz
+dW1aKGludCBBW10pOw0Kdm9pZCBwcmludEFzY2lpKGNoYXIgY2gpOyANCnZv
+aWQgbWFrZUFycmF5KGludCBBW10pOw0Kdm9pZCBwcmludEFycmF5KGludCBB
+W10pOw0KDQoNCg0KaW50IG1haW4oKXsNCglzcmFuZCh0aW1lKE5VTEwpKTsN
+CglpbnQgY2hvaWNlLCBjb3VudCA9IDA7DQoJY2hhciBjaGFyYWN0ZXI7CQ0K
+CXByaW50ZigiZW50ZXIgY2hvaWNlOlxuIik7DQoJc2NhbmYoIiVkIiwgJmNo
+b2ljZSk7DQoJDQoJc3dpdGNoKGNob2ljZSl7DQoJCQ0KCQljYXNlIDE6DQoJ
+CQljb3VudF9wbHVzKCk7DQoJCQlwcmludGYoImVudGVyIGNoYXJhY3Rlcjpc
+biIpOw0KCQkJc2NhbmYoIiVjIiwgJmNoKTsNCgkJCWJyZWFrOyANCgkJY2Fz
+ZSAyOg0KCQkJcHJpbnRBc2NpaShjaGFyIGNoKTsNCgkJCXByaW50ZigiZW50
+ZXIgY2hhcmFjdGVyOlxuIik7DQoJCQlzY2FuZigiJWMiLCAmY2gpOw0KCQkJ
+YnJlYWs7IA0KCQlkZWZhdWx0Og0KCQkJc3JhbmQodGltZShOVUxMKSk7DQoJ
+CQlpbnQgY291bnQsIG51bShTSVpFKT17MH07DQoJCQltYWtlQXJyYXkobnVt
+KTsNCgkJCXByaW50QXJyYXkobnVtKTsNCgkJCWNvdW50PXN1bVoobnVtKTsJ
+CQ0KCQkJcHJpbnRmKCJudW0gb2YgemVyb3MgaXMgJWRcbiwiIGNvdW50KTsN
+CgkJCWJyZWFrOw0KCX0NCglyZXR1cm4gMDsNCn0NCg0KDQoNCg0KaW50IGNv
+dW50X3BsdXMoKXsNCgljaGFyIGw7IA0KCWludCBuLCBjb3VudCA9IDA7DQoJ
+cHJpbnRmKCJlbnRlciB0aGUgbnVtYmVyIG9mIGNoYXJhY3RlcnM6XG4iKTsN
+CglsPWdldGNoYXIoKTsNCgl3aGlsZShsIT0nKicpew0KCQlpZihuPT0nKycp
+ew0KCQkJY291bnQrKzsNCgkJfQ0KCX0NCglwcmludGYoInRoZXJlIGFyZSAl
+ZCArJ3NcbiIsIGNvdW50KTsNCglyZXR1cm4gMDsgDQp9DQoNCi8qaW50IHN1
+bVooKXsqLw0KDQp2b2lkIHByaW50QXNjaWkoY2hhciBjaCl7DQoJY2hhciBj
+aDsNCglpbnQgaT0wOw0KCXByaW50ZigiZW50ZXIgYSBjaGFyYWN0ZXI6XG4i
+KTsNCgkgDQoJd2hpbGUoaTxjaCUxMCl7DQoJCXByaW50ZigiJWMiLCBjaCk7
+DQoJCXByaW50ZigiXG4iKTsNCgkJaSsrOw0KCX0NCn0NCnZvaWQgbWFrZUFy
+cmF5KGludCBBW10pew0KCWludCBpOyANCglmb3IoaT0wOyBpPD1TSVpFOyBp
+Kyspew0KCQlBW2ldPTUrcmFuZCgpJTExOw0KCX0NCn0gDQp2b2lkIHByaW50
+QXJyYXkoaW50IEFbXSl7DQoJaW50IGk7IA0KCXZhbHVlID0gY2glMTA7DQoJ
+Zm9yKGk9MTsgaTw9dmFsdWU7IGkrKyl7DQoJCXByaW50ZigiY1xuIiwgY2gp
+Ow0KCX0NCn0NCg0KDQo=
+
+--529729706-497101178-1428679536=:17164--
+
+From scott@suzy.cs.widener.edu Sun Apr 19 17:03:17 2015 -0400
+Date: Sun, 19 Apr 2015 17:03:17 -0400 (EDT)
+From: Tyler Scott <scott@suzy.cs.widener.edu>
+To: Yana Kortsarts <yanako@suzy.cs.widener.edu>
+Message-ID: <alpine.LNX.2.00.1504191702400.14571@suzy.cs.widener.edu>
+User-Agent: Alpine 2.00 (LNX 1167 2008-08-23)
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY="529728426-640801024-1429477397=:14571"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 10
+
+--529728426-640801024-1429477397=:14571
+Content-Type: TEXT/PLAIN; format=flowed; charset=US-ASCII
+
+here is the mini quiz 1 that i missed
+--529728426-640801024-1429477397=:14571
+Content-Type: TEXT/PLAIN; charset=US-ASCII; name=MQ1.py
+Content-Transfer-Encoding: BASE64
+Content-ID: <alpine.LNX.2.00.1504191703170.14571@suzy.cs.widener.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=MQ1.py
+
+I1R5bGVyIFNjb3R0DQojTUlOSSBRVUlaIDENCg0KI1dyaXRlIGEgZnVuY3Rp
+b246IGRlZiBzZXBhcmF0ZShncmFkZXMpDQoNCiN0aGF0IGhhcyBvbmUgcGFy
+YW1ldGVyIC0gbGlzdCBvZiBncmFkZXMgaW4gdGhlIGNsYXNzLiBUaGUgZnVu
+Y3Rpb24gDQojY3JlYXRlcyBhbmQgUkVUVVJOUyAzIG5ldyBsaXN0cyAtIGxp
+c3Qgb2YgZmFpbGluZyBncmFkZXMgKGdyYWRlcyBiZWxvdyANCiM2MCksIGxp
+c3Qgb2YgQSBncmFkZXMgKDkwIGFuZCBhYm92ZSkgYW5kIHRoZSByZXN0IG9m
+IHRoZSBncmFkZXMgDQojKGJldHdlZW4gNjAgYW5kIDg5KS4NCg0KI1dyaXRl
+IGEgcHJvZ3JhbSB0aGF0IHJhbmRvbWx5IGdlbmVyYXRlcyB0aGUgbGlzdCBv
+ZiBncmFkZXMgb2Ygc2l6ZSAxNSwgDQojY2FsbHMgZnVuY3Rpb24gc2VwYXJh
+dGUsIGFuZCB0aGVuIHByaW50cyBUSFJFRSBsaXN0czogZmFpbGluZyBncmFk
+ZXMsIA0KI2xpc3Qgb2YgQSBncmFkZXMsIGFuZCB0aGUgcmVzdCBvZiB0aGUg
+Z3JhZGVzLg0KDQpTSVpFID0gMTUNCmltcG9ydCByYW5kb20gDQoNCmRlZiBt
+YWluKCk6DQoJbXlfbGlzdCA9IFswXSpTSVpFDQoJZm9yIGkgaW4gcmFuZ2Uo
+U0laRSk6DQoJCW15X2xpc3RbaV09cmFuZG9tLnJhbmRpbnQoMCwxMDApDQoJ
+DQoJbnVtLG51bTEsbnVtMj1zZXBhcmF0ZShteV9saXN0KQ0KCXByaW50KCJv
+cmlnaW5hbCBsaXN0IGlzOiIpDQoJcHJpbnQobXlfbGlzdCkNCglwcmludCgi
+bGlzdCBvZiBmYWlsaW5nIGdyYWRlcyBpczoiKQ0KCXByaW50KG51bSkNCglw
+cmludCgibGlzdCBvZiBwYXNzaW5nIGdyYWRlcyBpczoiKQ0KCXByaW50KG51
+bTEpDQoJcHJpbnQoImxpc3Qgb2YgQSBncmFkZXMgYXJlOiIpDQoJcHJpbnQo
+bnVtMikNCgkNCgkNCmRlZiBzZXBhcmF0ZShncmFkZXMpOg0KCSANCglhID0g
+MA0KCWIgPSAwDQoJYyA9IDANCglmb3IgaSBpbiByYW5nZShTSVpFKToNCgkJ
+aWYoZ3JhZGVzW2ldPj0wIGFuZCBncmFkZXNbaV08PTU5KToNCiAgICAgICAg
+ICAgICAgICAJYSs9MQ0KCQlpZihncmFkZXNbaV0+PTYwIGFuZCBncmFkZXNb
+aV08PTg5KToNCiAgICAgICAgICAgICAgICAJYis9MQ0KCQlpZihncmFkZXNb
+aV0+PTkwIGFuZCBncmFkZXNbaV08PTEwMCk6DQoJCQljKz0xDQoNCgludW0g
+PSBbMF0qYQ0KCW51bTEgPSBbMF0qYg0KCW51bTIgPSBbMF0qYw0KCWE9MA0K
+CWI9MA0KCWM9MA0KCWZvciBpIGluIHJhbmdlKFNJWkUpOg0KCQlpZihncmFk
+ZXNbaV0+PTAgYW5kIGdyYWRlc1tpXTw9NTkpOg0KCQkJbnVtW2FdPWdyYWRl
+c1tpXQ0KCQkJYSs9MQ0KCQkJDQoJCWlmKGdyYWRlc1tpXT49NjAgYW5kIGdy
+YWRlc1tpXTw9ODkpOg0KCQkJbnVtMVtiXT1ncmFkZXNbaV0NCgkJCWIrPTEN
+CgkJDQoJCWlmKGdyYWRlc1tpXT49OTAgYW5kIGdyYWRlc1tpXTw9MTAwKToN
+CgkJCW51bTJbY109Z3JhZGVzW2ldDQoJCQljKz0xDQoJcHJpbnQoIm51bWJl
+ciBvZiBmYWlsaW5nIGdyYWRlczoiLCBhKQ0KCXByaW50KCJudW1iZXIgb2Yg
+cGFzc2luZyBncmFkZXM6IiwgYikNCglwcmludCgibnVtYmVyIG9mIEEgZ3Jh
+ZGVzOiIsIGMpCQkNCglyZXR1cm4gbnVtLCBudW0xLCBudW0yIA0KDQptYWlu
+KCkJDQo=
+
+--529728426-640801024-1429477397=:14571--
+
+From scott@suzy.cs.widener.edu Sun Apr 19 18:30:10 2015 -0400
+Date: Sun, 19 Apr 2015 18:30:10 -0400 (EDT)
+From: Tyler Scott <scott@suzy.cs.widener.edu>
+To: Yana Kortsarts <yanako@suzy.cs.widener.edu>
+Message-ID: <alpine.LNX.2.00.1504191828320.15053@suzy.cs.widener.edu>
+User-Agent: Alpine 2.00 (LNX 1167 2008-08-23)
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY="529728426-1920989248-1429482610=:15053"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 11
+
+--529728426-1920989248-1429482610=:15053
+Content-Type: TEXT/PLAIN; format=flowed; charset=US-ASCII
+
+attached is test 2 part 1 and 2 from when I missed. I also emailed you the 
+mini quiz earlier
+--529728426-1920989248-1429482610=:15053
+Content-Type: TEXT/PLAIN; charset=US-ASCII; name=TEST2p1.py
+Content-Transfer-Encoding: BASE64
+Content-ID: <alpine.LNX.2.00.1504191830100.15053@suzy.cs.widener.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=TEST2p1.py
+
+I1R5bGVyIFNjb3R0DQojQU5TV0VSIENPTU1FTlRFRCBCRUxPVyANCg0KI1RF
+U1QgMiBQQVJUIDEgDQoNCiNGT1IgVEhFIFBST0dSQU0gV1JJVFRFTiBCRUxP
+VywgR0lWRSBBTiBFWEFNUExFIE9GIElOUFVUIFRPIFJFQ0VJVkUgVEhFIA0K
+I0ZPTExPV0lORyBPVVRQVVQgDQoNCiNbNSwgMCwgLTE1XSANCg0KDQpkZWYg
+bWFpbigpOg0KCW15X2xpc3Q9W1swIGZvciBpIGluIHJhbmdlKDIpXSBmb3Ig
+aiBpbiByYW5nZSgzKV0gDQoJZnVuID0gW10NCglmb3IgaSBpbiByYW5nZSgz
+KToNCgkJZm9yIGogaW4gcmFuZ2UoMik6DQoJCQlteV9saXN0W2ldW2pdPWlu
+dChpbnB1dCgiZW50ZXIgYSBudW1iZXI6ICIpKQ0KCQkJaWYobXlfbGlzdFtp
+XVtqXSU1PT0wKToNCgkJCQlmdW4uYXBwZW5kKG15X2xpc3RbaV1bal0pDQoJ
+cHJpbnQoZnVuKQ0KDQptYWluKCkNCg0KDQojSU5QVVQgMSANCg0KI2VudGVy
+IGEgbnVtYmVyOiA1DQojZW50ZXIgYSBudW1iZXI6IDINCiNlbnRlciBhIG51
+bWJlcjogMA0KI2VudGVyIGEgbnVtYmVyOiAyDQojZW50ZXIgYSBudW1iZXI6
+IDINCiNlbnRlciBhIG51bWJlcjogLTE1IA0KDQojT1VUUFVUIDENCg0KI1s1
+LCAwLCAtMTVdDQoNCiNJTlBVVCAyDQoNCiNlbnRlciBhIG51bWJlcjogMg0K
+I2VudGVyIGEgbnVtYmVyOiA1DQojZW50ZXIgYSBudW1iZXI6IDANCiNlbnRl
+ciBhIG51bWJlcjogMg0KI2VudGVyIGEgbnVtYmVyOiAyIA0KI2VudGVyIGEg
+bnVtYmVyOiAtMTUNCg0KI09VVFBVVCAyDQoNCiNbNSwgMCwgLTE1XQ0KDQoj
+SU5QVVQgMyANCg0KI2VudGVyIGEgbnVtYmVyOiA1DQojZW50ZXIgYSBudW1i
+ZXI6IDMNCiNlbnRlciBhIG51bWJlcjogMw0KI2VudGVyIGEgbnVtYmVyOiAw
+DQojZW50ZXIgYSBudW1iZXI6IC0xNQ0KI2VudGVyIGEgbnVtYmVyOiA0DQoN
+CiNPVVRQVVQgMw0KDQojWzUsIDAsIC0xNV0NCg==
+
+--529728426-1920989248-1429482610=:15053
+Content-Type: TEXT/PLAIN; charset=US-ASCII; name=test2p2.py
+Content-Transfer-Encoding: BASE64
+Content-ID: <alpine.LNX.2.00.1504191830101.15053@suzy.cs.widener.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=test2p2.py
+
+I1R5bGVyIFNjb3R0DQojVEVTVCAyIFBBUlQgMg0KDQojV3JpdGUgYSBmdW5j
+dGlvbiB2YWxpZF9saWNlbnNlIHRoYXQgaGFzIDEgcGFyYW1ldGVyIC0gIA0K
+I3N0cmluZyBvZiBjaGFyYWN0ZXJzIHRoYXQgcmVwcmVzZW50cyBsaWNlbnNl
+IHBsYXRlLiANCiNUaGUgZnVuY3Rpb24gcmV0dXJucyBUcnVlIGlmIHRoZSBs
+aWNlbnNlIHBsYXRlIGlzIHZhbGlkIGFuZCBGYWxzZSANCiNvdGhlcndpc2UN
+Cg0KI1RoZSBydWxlcyBvZiB2YWxpZCBsaWNlbnNlIHBsYXRlOg0KIzEuIHRo
+ZSBsaWNlbnNlIHBsYXRlIGlzIGF0IGxlYXN0IDQgY2hhcmFjdGVycyBsb25n
+IA0KI2FuZCBubyBtb3JlIHRoYW4gNyBjaGFyYWN0ZXJzIGxvbmcNCiMyLiB0
+aGUgbGljZW5zZSBwbGF0ZSBjb25zaXN0cyBvZiBkaWdpdHMgYW5kIGxldHRl
+cnMgb25seS4gDQoNCiNXcml0ZSBhIGZ1bmN0aW9uIGNvdW50X3ZhbGlkLCB0
+aGF0IGhhcyBvbmUgcGFyYW1ldGVyIC0NCiNsaXN0IG9mIGxpY2Vuc2UgcGxh
+dGVzDQojVGhlIGZ1bmN0aW9uIGZpbmRzIGFuZCByZXR1cm5zIHRoZSBudW1i
+ZXIgb2YgDQojdmFsaWQgbGljZW5zZXMgaW4gdGhlIGxpc3QgYW5kIHRoZSBu
+ZXcgbGlzdA0KI3RoYXQgY29uc2lzdHMgb2YgdmFsaWQgbGluY2Vuc2VzIE9O
+TFkNCg0KI1dyaXRlIG1haW4gdGhhdCByZWFkcyB0aGUgc2l6ZSBvZiB0aGUg
+bGlzdCwgZ2VuZXJhdGVzIHRoZSBsaXN0IG9mIA0KI2xpY2Vuc2VzIGZyb20g
+dXNlciBpbnB1dCBhbmQgZmluZHMgdGhlIA0KI251bWJlciBvZiB2YWxpZCBs
+aWNlbnNlcyBpbiB0aGUgbGlzdCBhbmQgcHJpbnRzIGFsbCB2YWxpZCANCiNs
+aWNlbnNlcyANCg0KZGVmIHZhbGlkX2xpY2Vuc2UocGxhdGUpOg0KCXZhbGlk
+ID0gIiINCglzdGF0dXMgPSBGYWxzZQ0KCWxlbmd0aCA9IGxlbihwbGF0ZSkN
+CglpZihsZW5ndGggPj0gNCBhbmQgbGVuZ3RoIDw9IDcgYW5kIHBsYXRlLmlz
+YWxudW0oKT09VHJ1ZSk6DQoJCQ0KCQlzdGF0dXMgPSBUcnVlDQoJCQ0KCXJl
+dHVybiBzdGF0dXMNCg0KZGVmIGNvdW50X3ZhbGlkKG15X2xpc3QpOg0KCWNv
+dW50ID0gMA0KCXNpemUgPSBsZW4obXlfbGlzdCkgDQoJZm9yIGkgaW4gcmFu
+Z2UoMCwgc2l6ZSk6DQoJCWlzVmFsaWQ9dmFsaWRfbGljZW5zZShteV9saXN0
+W2ldKQ0KCQlpZihpc1ZhbGlkPT1UcnVlKToNCgkJCWNvdW50Kz0xDQoJCQkN
+CgkJDQoJbmV3X2xpc3QgPSBbXQ0KCWZvciBpIGluIHJhbmdlKDAsIHNpemUp
+Og0KCQkjcHJpbnQoImxvb2tpbmcgYXQiLCBteV9saXN0W2ldKQ0KCQlpc1Zh
+bGlkPXZhbGlkX2xpY2Vuc2UobXlfbGlzdFtpXSkNCgkJaWYoaXNWYWxpZD09
+VHJ1ZSk6DQoJCQkjcHJpbnQoInRoaXMgbGljZW5zZSBwbGF0ZSBpcyB2YWxp
+ZCIpDQoJCQluZXdfbGlzdC5hcHBlbmQobXlfbGlzdFtpXSkNCgkJI2Vsc2U6
+DQoJCQkjcHJpbnQoInRoaXMgaXMgbm90IHZhbGlkIikNCg0KCQkNCglyZXR1
+cm4gY291bnQsIG5ld19saXN0DQoJCQ0KCQ0KZGVmIG1haW4oKToNCgkNCglz
+aXplPWludChpbnB1dCgiZW50ZXIgdGhlIG51bWJlciBvZiBwbGF0ZXMgaW4g
+dGhlIGxpc3Q6ICIpKQ0KCW15X2xpc3Q9W10NCglmb3IgaSBpbiByYW5nZShz
+aXplKToNCgkJcGxhdGUgPSAoaW5wdXQoImVudGVyIHRoZSBwbGF0ZTogIikp
+DQoJCW15X2xpc3QuYXBwZW5kKHBsYXRlKQ0KCQkjdmFsaWRfbGljZW5zZShw
+bGF0ZSkNCglwcmludCgib3JpZ2luYWwgbGlzdCBpczogIikNCglwcmludCht
+eV9saXN0KQ0KCQ0KCWNvdW50LHZhbGlkbGlzdD1jb3VudF92YWxpZChteV9s
+aXN0KQ0KCXByaW50KCJhbW91bnQgdmFsaWQiLCBjb3VudCkNCglwcmludCgi
+dGhpcyBpcyBuZXcgbGlzdCIsIHZhbGlkbGlzdCkNCgkNCm1haW4oKSANCg==
+
+--529728426-1920989248-1429482610=:15053--
+
+From scott@jet.cs.widener.edu Wed Apr 22 14:05:07 2015 -0400
+Date: Wed, 22 Apr 2015 14:05:07 -0400 (EDT)
+From: Tyler Scott <scott@jet.cs.widener.edu>
+To: Yana Kortsarts <yanako@jet.cs.widener.edu>
+Message-ID: <alpine.LNX.2.02.1504221404450.30299@jet.cs.widener.edu>
+User-Agent: Alpine 2.02 (LNX 1266 2009-07-14)
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY="529732010-572470541-1429725907=:30299"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 12
+
+--529732010-572470541-1429725907=:30299
+Content-Type: TEXT/PLAIN; format=flowed; charset=US-ASCII
+
+--529732010-572470541-1429725907=:30299
+Content-Type: TEXT/PLAIN; charset=US-ASCII; name=lab6p2.c
+Content-Transfer-Encoding: BASE64
+Content-ID: <alpine.LNX.2.02.1504221405070.30299@jet.cs.widener.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=lab6p2.c
+
+Lyogd2VkbmVzZGF5IGxhYiBwciAyICovDQoNCiNpbmNsdWRlPHN0cmluZy5o
+Pg0KI2luY2x1ZGU8c3RkaW8uaD4NCiNkZWZpbmUgU0laRSAxMDANCg0Kdm9p
+ZCBjaGFuZ2VTdHJpbmcoY2hhciBvbGRBW10sIGNoYXIgbmV3QVtdKTsNCg0K
+aW50IG1haW4oKXsNCg0KCWNoYXIgb2xkQVtTSVpFXSwgbmV3QVtTSVpFXTsN
+CglwcmludGYoImVudGVyIHN0cmluZzogXG4iKTsNCglzY2FuZigiJXMiLCBv
+bGRBKTsNCgljaGFuZ2VTdHJpbmcob2xkQSwgbmV3QSk7IA0KCWlmKHN0cmxl
+bihuZXdBKT09MCl7DQoJCXByaW50Zigibm90aGluZyBsZWZ0XG4iKTsNCgl9
+DQoJZWxzZXsNCgkJcHJpbnRmKCJ0aGUgbmV3IHN0cmluZyBpczogJXNcbiIs
+IG5ld0EpOw0KCX0NCglyZXR1cm4gMDsNCn0NCg0Kdm9pZCBjaGFuZ2VTdHJp
+bmcoY2hhciBvbGRBW10sIGNoYXIgbmV3QVtdKXsNCglpbnQgaT0wLCBqPTA7
+IA0KCQ0KCXdoaWxlKG9sZEFbaV0hPSdcMCcpew0KCQlpZihvbGRBW2ldPj0n
+MCcgJiYgb2xkQVtpXTw9JzknKXsNCgkJCW5ld0Fbal09b2xkQVtpXTsNCgkJ
+CWorKzsNCgkJfQ0KCQllbHNlIGlmKG9sZEFbaV0+PSdhJyAmJiBvbGRBW2ld
+PD0neicpew0KCQkJbmV3QVtqXT0nKic7DQoJCQlqKys7DQoJCX0NCgkJZWxz
+ZSBpZihvbGRBW2ldIT0nQScgJiYgb2xkQVtpXSE9J1onKXsNCgkJCW5ld0Fb
+al09b2xkQVtpXTsNCgkJCWorKzsNCgkJfQ0KCQlpKys7DQoJfQ0KCW5ld0Fb
+al09J1wwJzsNCn0NCg0KDQoNCg0KDQo=
+
+--529732010-572470541-1429725907=:30299--
+
+From scott@jet.cs.widener.edu Wed Apr 22 14:22:11 2015 -0400
+Date: Wed, 22 Apr 2015 14:22:11 -0400 (EDT)
+From: Tyler Scott <scott@jet.cs.widener.edu>
+To: Yana Kortsarts <yanako@jet.cs.widener.edu>
+Subject: lab 6 pr 2 modified 
+Message-ID: <alpine.LNX.2.02.1504221421460.30438@jet.cs.widener.edu>
+User-Agent: Alpine 2.02 (LNX 1266 2009-07-14)
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY="529732010-1233635760-1429726931=:30438"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 13
+
+--529732010-1233635760-1429726931=:30438
+Content-Type: TEXT/PLAIN; format=flowed; charset=US-ASCII
+
+--529732010-1233635760-1429726931=:30438
+Content-Type: TEXT/PLAIN; charset=US-ASCII; name=lab6p2.c
+Content-Transfer-Encoding: BASE64
+Content-ID: <alpine.LNX.2.02.1504221422110.30438@jet.cs.widener.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=lab6p2.c
+
+Lyogd2VkbmVzZGF5IGxhYiBwciAyICovDQoNCiNpbmNsdWRlPHN0cmluZy5o
+Pg0KI2luY2x1ZGU8c3RkaW8uaD4NCiNkZWZpbmUgU0laRSAxMDANCg0Kdm9p
+ZCBjaGFuZ2VTdHJpbmcoY2hhciBvbGRBW10sIGNoYXIgbmV3QVtdKTsNCg0K
+aW50IG1haW4oKXsNCg0KCWNoYXIgb2xkQVtTSVpFXSwgbmV3QVtTSVpFXTsN
+CglwcmludGYoImVudGVyIHN0cmluZzogXG4iKTsNCglzY2FuZigiJXMiLCBv
+bGRBKTsNCgljaGFuZ2VTdHJpbmcob2xkQSwgbmV3QSk7IA0KCWlmKHN0cmxl
+bihuZXdBKT09MCl7DQoJCXByaW50Zigibm90aGluZyBsZWZ0XG4iKTsNCgl9
+DQoJZWxzZXsNCgkJcHJpbnRmKCJ0aGUgbmV3IHN0cmluZyBpczogJXNcbiIs
+IG5ld0EpOw0KCX0NCglyZXR1cm4gMDsNCn0NCg0Kdm9pZCBjaGFuZ2VTdHJp
+bmcoY2hhciBvbGRBW10sIGNoYXIgbmV3QVtdKXsNCglpbnQgaT0wLCBqPTA7
+IA0KCQ0KCXdoaWxlKG9sZEFbaV0hPSdcMCcpew0KCQlpZihvbGRBW2ldPj0n
+MCcgJiYgb2xkQVtpXTw9JzknKXsNCgkJCW5ld0Fbal09b2xkQVtpXTsNCgkJ
+CWorKzsNCgkJfQ0KCQllbHNlIGlmKG9sZEFbaV0+PSdhJyAmJiBvbGRBW2ld
+PD0neicpew0KCQkJbmV3QVtqXT0nKic7DQoJCQlqKys7DQoJCX0NCgkJZWxz
+ZSBpZihvbGRBW2ldPD0nQScgICYmIG9sZEFbaV08PSdaJyl7DQoJCQluZXdB
+W2pdPW9sZEFbaV07DQoJCQlqKys7DQoJCX0NCgkJaSsrOw0KCX0NCgluZXdB
+W2pdPSdcMCc7DQp9DQoNCg0KDQoNCg0K
+
+--529732010-1233635760-1429726931=:30438--
+
+From scott@jet.cs.widener.edu Wed Apr 22 14:52:35 2015 -0400
+Date: Wed, 22 Apr 2015 14:52:35 -0400 (EDT)
+From: Tyler Scott <scott@jet.cs.widener.edu>
+To: Yana Kortsarts <yanako@jet.cs.widener.edu>
+Subject: lab 6 problem 2 modified
+Message-ID: <alpine.LNX.2.02.1504221451550.30618@jet.cs.widener.edu>
+User-Agent: Alpine 2.02 (LNX 1266 2009-07-14)
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY="529732010-2135329859-1429728755=:30618"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 14
+
+--529732010-2135329859-1429728755=:30618
+Content-Type: TEXT/PLAIN; format=flowed; charset=US-ASCII
+
+--529732010-2135329859-1429728755=:30618
+Content-Type: TEXT/PLAIN; charset=US-ASCII; name=lab6p2.c
+Content-Transfer-Encoding: BASE64
+Content-ID: <alpine.LNX.2.02.1504221452350.30618@jet.cs.widener.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=lab6p2.c
+
+Lyogd2VkbmVzZGF5IGxhYiBwciAyICovDQoNCiNpbmNsdWRlPHN0cmluZy5o
+Pg0KI2luY2x1ZGU8c3RkaW8uaD4NCiNkZWZpbmUgU0laRSAxMDANCg0Kdm9p
+ZCBjaGFuZ2VTdHJpbmcoY2hhciBvbGRBW10sIGNoYXIgbmV3QVtdKTsNCg0K
+aW50IG1haW4oKXsNCg0KCWNoYXIgb2xkQVtTSVpFXSwgbmV3QVtTSVpFXTsN
+CglwcmludGYoImVudGVyIHN0cmluZzogXG4iKTsNCglzY2FuZigiJXMiLCBv
+bGRBKTsNCgljaGFuZ2VTdHJpbmcob2xkQSwgbmV3QSk7IA0KCWlmKHN0cmxl
+bihuZXdBKT09MCl7DQoJCXByaW50Zigibm90aGluZyBsZWZ0XG4iKTsNCgl9
+DQoJZWxzZXsNCgkJcHJpbnRmKCJ0aGUgbmV3IHN0cmluZyBpczogJXNcbiIs
+IG5ld0EpOw0KCX0NCglyZXR1cm4gMDsNCn0NCg0Kdm9pZCBjaGFuZ2VTdHJp
+bmcoY2hhciBvbGRBW10sIGNoYXIgbmV3QVtdKXsNCglpbnQgaT0wLCBqPTA7
+IA0KCQ0KCXdoaWxlKG9sZEFbaV0hPSdcMCcpew0KCQlpZihvbGRBW2ldPj0n
+MCcgJiYgb2xkQVtpXTw9JzknKXsNCgkJCW5ld0Fbal09b2xkQVtpXTsNCgkJ
+CWorKzsNCgkJfQ0KCQllbHNlIGlmKG9sZEFbaV0+PSdhJyAmJiBvbGRBW2ld
+PD0neicpew0KCQkJbmV3QVtqXT0nKic7DQoJCQlqKys7DQoJCX0NCgkJZWxz
+ZSBpZihvbGRBW2ldPD0nQScgICYmIG9sZEFbaV08PSdaJyl7DQoJCQluZXdB
+W2pdPW9sZEFbaV07DQoJCQlqKys7DQoJCX0NCgkJaSsrOw0KCX0NCgluZXdB
+W2pdPSdcMCc7DQp9DQoNCg0KDQoNCg0K
+
+--529732010-2135329859-1429728755=:30618--
+
+From scott@jet.cs.widener.edu Wed Apr 22 15:17:39 2015 -0400
+Date: Wed, 22 Apr 2015 15:17:39 -0400 (EDT)
+From: Tyler Scott <scott@jet.cs.widener.edu>
+To: Yana Kortsarts <yanako@jet.cs.widener.edu>
+Message-ID: <alpine.LNX.2.02.1504221517190.30770@jet.cs.widener.edu>
+User-Agent: Alpine 2.02 (LNX 1266 2009-07-14)
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY="529732010-856696746-1429730259=:30770"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 15
+
+--529732010-856696746-1429730259=:30770
+Content-Type: TEXT/PLAIN; format=flowed; charset=US-ASCII
+
+--529732010-856696746-1429730259=:30770
+Content-Type: TEXT/PLAIN; charset=US-ASCII; name=lab6p2.c
+Content-Transfer-Encoding: BASE64
+Content-ID: <alpine.LNX.2.02.1504221517390.30770@jet.cs.widener.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=lab6p2.c
+
+Lyogd2VkbmVzZGF5IGxhYiBwciAyICovDQoNCiNpbmNsdWRlPHN0cmluZy5o
+Pg0KI2luY2x1ZGU8c3RkaW8uaD4NCiNkZWZpbmUgU0laRSAxMDANCg0Kdm9p
+ZCBjaGFuZ2VTdHJpbmcoY2hhciBvbGRBW10sIGNoYXIgbmV3QVtdKTsNCg0K
+aW50IG1haW4oKXsNCg0KCWNoYXIgb2xkQVtTSVpFXSwgbmV3QVtTSVpFXTsN
+CglwcmludGYoImVudGVyIHN0cmluZzogXG4iKTsNCglzY2FuZigiJXMiLCBv
+bGRBKTsNCgljaGFuZ2VTdHJpbmcob2xkQSwgbmV3QSk7IA0KCWlmKHN0cmxl
+bihuZXdBKT09MCl7DQoJCXByaW50Zigibm90aGluZyBsZWZ0XG4iKTsNCgl9
+DQoJZWxzZXsNCgkJcHJpbnRmKCJ0aGUgbmV3IHN0cmluZyBpczogJXNcbiIs
+IG5ld0EpOw0KCX0NCglyZXR1cm4gMDsNCn0NCg0Kdm9pZCBjaGFuZ2VTdHJp
+bmcoY2hhciBvbGRBW10sIGNoYXIgbmV3QVtdKXsNCglpbnQgaT0wLCBqPTA7
+IA0KCQ0KCXdoaWxlKG9sZEFbaV0hPSdcMCcpew0KCQlpZihvbGRBW2ldPj0n
+MCcgJiYgb2xkQVtpXTw9JzknKXsNCgkJCW5ld0Fbal09b2xkQVtpXTsNCgkJ
+CWorKzsNCgkJfQ0KCQllbHNlIGlmKG9sZEFbaV0+PSdhJyAmJiBvbGRBW2ld
+PD0neicpew0KCQkJbmV3QVtqXT0nKic7DQoJCQlqKys7DQoJCX0NCgkJZWxz
+ZSBpZihvbGRBW2ldPCdBJyAgJiYgb2xkQVtpXTw9J1onKXsNCgkJCW5ld0Fb
+al09b2xkQVtpXTsNCgkJCWorKzsNCgkJfQ0KCQlpKys7DQoJfQ0KCW5ld0Fb
+al09J1wwJzsNCn0NCg0KDQoNCg0KDQo=
+
+--529732010-856696746-1429730259=:30770--
+
+From scott@faye.cs.widener.edu Wed Apr 29 14:54:49 2015 -0400
+Date: Wed, 29 Apr 2015 14:54:49 -0400 (EDT)
+From: Tyler Scott <scott@faye.cs.widener.edu>
+To: Yana Kortsarts <yanako@faye.cs.widener.edu>
+Message-ID: <alpine.LNX.2.02.1504291454320.7849@faye.cs.widener.edu>
+User-Agent: Alpine 2.02 (LNX 1266 2009-07-14)
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY="529731754-1782435185-1430333689=:7849"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 16
+
+--529731754-1782435185-1430333689=:7849
+Content-Type: TEXT/PLAIN; format=flowed; charset=US-ASCII
+
+--529731754-1782435185-1430333689=:7849
+Content-Type: TEXT/PLAIN; charset=US-ASCII; name=lab7p2.c
+Content-Transfer-Encoding: BASE64
+Content-ID: <alpine.LNX.2.02.1504291454490.7849@faye.cs.widener.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=lab7p2.c
+
+I2luY2x1ZGU8c3RkaW8uaD4NCiNpbmNsdWRlPHN0ZGxpYi5oPg0KI2luY2x1
+ZGU8dGltZS5oPg0KI2RlZmluZSBST1cgMw0KI2RlZmluZSBDT0wgNA0KDQoN
+CnZvaWQgY291bnQoaW50IEFbXVtDT0xdLCBpbnQgbnVtX3Jvd3MsIGludCBu
+dW1fY29scyk7DQp2b2lkIGZpbGxSYW5kb20oaW50IEFbXVtDT0xdLCBpbnQg
+bnVtX3Jvd3MsIGludCBudW1fY29scyk7DQp2b2lkIHByaW50QXJyYXkoaW50
+IEFbXVtDT0xdLCBpbnQgbnVtX3Jvd3MsIGludCBudW1fY29scyk7DQoNCg0K
+aW50IG1haW4oKXsNCglpbnQgQVtST1ddW0NPTF07DQoJc3JhbmQodGltZShO
+VUxMKSk7DQoJZmlsbFJhbmRvbShBLCBST1csIENPTCk7DQoJcHJpbnRBcnJh
+eShBLCBST1csIENPTCk7DQoJcmV0dXJuIDA7DQp9DQoNCnZvaWQgY291bnQo
+aW50IEFbXVtDT0xdLCBpbnQgbnVtX3Jvd3MsIGludCBudW1fY29scyl7DQoJ
+aW50IGksIGo7DQoJaW50IGNvdW50MD0wLCBjb3VudDE9MCwgY291bnQyPTAs
+IGNvdW50Mz0wLCBjb3VudDQ9MDsNCglmb3IoaT0wO2k8bnVtX3Jvd3M7IGkr
+Kyl7DQoJCWZvcihqPTA7ajxudW1fY29scztqKyspew0KCQkJaWYoQVtpXVtq
+XT09MCl7DQoJCQkJY291bnQwKys7DQoJCQl9DQoJCQllbHNlIGlmKEFbaV1b
+al09PTEpew0KCQkJCWNvdW50MSsrOw0KCQkJfQ0KCQkJZWxzZSBpZihBW2ld
+W2pdPT0yKXsNCgkJCQljb3VudDIrKzsNCgkJCX0NCgkJCWVsc2UgaWYoQVtp
+XVtqXT09Myl7DQoJCQkJY291bnQzKys7DQoJCQl9DQoJCQllbHNlIGlmKEFb
+aV1bal09PTQpew0KCQkJCWNvdW50NCsrOw0KCQkJfQ0KCQl9DQoJfQ0KCXBy
+aW50ZigibnVtYmVyIG9mIDAncyAlZFxuIiwgY291bnQwKTsNCglwcmludGYo
+Im51bWJlciBvZiAxJ3MgJWRcbiIsIGNvdW50MSk7DQoJcHJpbnRmKCJudW1i
+ZXIgb2YgMidzICVkXG4iLCBjb3VudDIpOw0KCXByaW50ZigibnVtYmVyIG9m
+IDMncyAlZFxuIiwgY291bnQzKTsNCglwcmludGYoIm51bWJlciBvZiA0J3Mg
+JWRcbiIsIGNvdW50NCk7DQoJDQp9DQp2b2lkIGZpbGxSYW5kb20oaW50IEFb
+XVtDT0xdLCBpbnQgbnVtX3Jvd3MsIGludCBudW1fY29scyl7DQoJaW50IGks
+IGo7IA0KCWZvcihpPTA7aTxudW1fcm93cztpKyspew0KCQlmb3Ioaj0wO2o8
+bnVtX2NvbHM7aisrKXsNCgkJCUFbaV1bal09KHJhbmQoKSAlIDUpOw0KCQl9
+DQoJfQ0KfQ0KDQoNCnZvaWQgcHJpbnRBcnJheShpbnQgQVtdW0NPTF0sIGlu
+dCBudW1fcm93cywgaW50IG51bV9jb2xzKXsNCglpbnQgaSwgajsNCglmb3Io
+aT0wO2k8bnVtX3Jvd3M7aSsrKXsNCgkJZm9yKGo9MDtqPG51bV9jb2xzO2or
+Kyl7DQoJCQlwcmludGYoIiVkICIsIEFbaV1bal0pOw0KCQl9DQoJCXByaW50
+ZigiXG4iKTsNCgl9DQp9DQo=
+
+--529731754-1782435185-1430333689=:7849--
+
+From scott@faye.cs.widener.edu Wed Apr 29 15:07:54 2015 -0400
+Date: Wed, 29 Apr 2015 15:07:54 -0400 (EDT)
+From: Tyler Scott <scott@faye.cs.widener.edu>
+To: Yana Kortsarts <yanako@faye.cs.widener.edu>
+Subject: lab 7 error
+Message-ID: <alpine.LNX.2.02.1504291506490.8071@faye.cs.widener.edu>
+User-Agent: Alpine 2.02 (LNX 1266 2009-07-14)
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY="529731754-1319071183-1430334474=:8071"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 17
+
+--529731754-1319071183-1430334474=:8071
+Content-Type: TEXT/PLAIN; format=flowed; charset=US-ASCII
+
+works but prints out multiple times displaying correct answer at the end
+--529731754-1319071183-1430334474=:8071
+Content-Type: TEXT/PLAIN; charset=US-ASCII; name=lab7p2.c
+Content-Transfer-Encoding: BASE64
+Content-ID: <alpine.LNX.2.02.1504291507540.8071@faye.cs.widener.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=lab7p2.c
+
+I2luY2x1ZGU8c3RkaW8uaD4NCiNpbmNsdWRlPHN0ZGxpYi5oPg0KI2luY2x1
+ZGU8dGltZS5oPg0KI2RlZmluZSBST1cgMw0KI2RlZmluZSBDT0wgNA0KDQoN
+CnZvaWQgY291bnQoaW50IEFbXVtDT0xdLCBpbnQgbnVtX3Jvd3MsIGludCBu
+dW1fY29scyk7DQp2b2lkIGZpbGxSYW5kb20oaW50IEFbXVtDT0xdLCBpbnQg
+bnVtX3Jvd3MsIGludCBudW1fY29scyk7DQp2b2lkIHByaW50QXJyYXkoaW50
+IEFbXVtDT0xdLCBpbnQgbnVtX3Jvd3MsIGludCBudW1fY29scyk7DQoNCg0K
+aW50IG1haW4oKXsNCglpbnQgQVtST1ddW0NPTF07DQoJc3JhbmQodGltZShO
+VUxMKSk7DQoJZmlsbFJhbmRvbShBLCBST1csIENPTCk7DQoJcHJpbnRBcnJh
+eShBLCBST1csIENPTCk7DQoJY291bnQoQSwgUk9XLCBDT0wpOw0KCXJldHVy
+biAwOw0KfQ0KDQp2b2lkIGNvdW50KGludCBBW11bQ09MXSwgaW50IG51bV9y
+b3dzLCBpbnQgbnVtX2NvbHMpew0KCWludCBpLCBqOw0KCWludCBjb3VudDA9
+MCwgY291bnQxPTAsIGNvdW50Mj0wLCBjb3VudDM9MCwgY291bnQ0PTA7DQoJ
+Zm9yKGk9MDtpPG51bV9yb3dzOyBpKyspew0KCQlmb3Ioaj0wO2o8bnVtX2Nv
+bHM7aisrKXsNCgkJCWlmKEFbaV1bal09PTApew0KCQkJCWNvdW50MCsrOw0K
+CQkJfQ0KCQkJZWxzZSBpZihBW2ldW2pdPT0xKXsNCgkJCQljb3VudDErKzsN
+CgkJCX0NCgkJCWVsc2UgaWYoQVtpXVtqXT09Mil7DQoJCQkJY291bnQyKys7
+DQoJCQl9DQoJCQllbHNlIGlmKEFbaV1bal09PTMpew0KCQkJCWNvdW50Mysr
+Ow0KCQkJfQ0KCQkJZWxzZSBpZihBW2ldW2pdPT00KXsNCgkJCQljb3VudDQr
+KzsNCgkJCX0NCgkJfQkNCgkJcHJpbnRmKCJudW1iZXIgb2YgMCdzICVkXG4i
+LCBjb3VudDApOw0KCQlwcmludGYoIm51bWJlciBvZiAxJ3MgJWRcbiIsIGNv
+dW50MSk7DQoJCXByaW50ZigibnVtYmVyIG9mIDIncyAlZFxuIiwgY291bnQy
+KTsNCgkJcHJpbnRmKCJudW1iZXIgb2YgMydzICVkXG4iLCBjb3VudDMpOw0K
+CQlwcmludGYoIm51bWJlciBvZiA0J3MgJWRcbiIsIGNvdW50NCk7DQoJfQ0K
+fQ0Kdm9pZCBmaWxsUmFuZG9tKGludCBBW11bQ09MXSwgaW50IG51bV9yb3dz
+LCBpbnQgbnVtX2NvbHMpew0KCWludCBpLCBqOyANCglmb3IoaT0wO2k8bnVt
+X3Jvd3M7aSsrKXsNCgkJZm9yKGo9MDtqPG51bV9jb2xzO2orKyl7DQoJCQlB
+W2ldW2pdPShyYW5kKCkgJSA1KTsNCgkJfQ0KCX0NCn0NCg0KDQp2b2lkIHBy
+aW50QXJyYXkoaW50IEFbXVtDT0xdLCBpbnQgbnVtX3Jvd3MsIGludCBudW1f
+Y29scyl7DQoJaW50IGksIGo7DQoJZm9yKGk9MDtpPG51bV9yb3dzO2krKyl7
+DQoJCWZvcihqPTA7ajxudW1fY29scztqKyspew0KCQkJcHJpbnRmKCIlZCAi
+LCBBW2ldW2pdKTsNCgkJfQ0KCQlwcmludGYoIlxuIik7DQoJfQ0KfQ0K
+
+--529731754-1319071183-1430334474=:8071--
+
+From scott@faye.cs.widener.edu Wed Apr 29 15:33:14 2015 -0400
+Date: Wed, 29 Apr 2015 15:33:14 -0400 (EDT)
+From: Tyler Scott <scott@faye.cs.widener.edu>
+To: Yana Kortsarts <yanako@faye.cs.widener.edu>
+Message-ID: <alpine.LNX.2.02.1504291532590.8891@faye.cs.widener.edu>
+User-Agent: Alpine 2.02 (LNX 1266 2009-07-14)
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY="529731754-1043195202-1430335994=:8891"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 18
+
+--529731754-1043195202-1430335994=:8891
+Content-Type: TEXT/PLAIN; format=flowed; charset=US-ASCII
+
+--529731754-1043195202-1430335994=:8891
+Content-Type: TEXT/PLAIN; charset=US-ASCII; name=lab7p2.c
+Content-Transfer-Encoding: BASE64
+Content-ID: <alpine.LNX.2.02.1504291533140.8891@faye.cs.widener.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=lab7p2.c
+
+I2luY2x1ZGU8c3RkaW8uaD4NCiNpbmNsdWRlPHN0ZGxpYi5oPg0KI2luY2x1
+ZGU8dGltZS5oPg0KI2RlZmluZSBST1cgMw0KI2RlZmluZSBDT0wgNA0KDQoN
+CnZvaWQgY291bnQoaW50IEFbXVtDT0xdLCBpbnQgbnVtX3Jvd3MsIGludCBu
+dW1fY29scyk7DQp2b2lkIGZpbGxSYW5kb20oaW50IEFbXVtDT0xdLCBpbnQg
+bnVtX3Jvd3MsIGludCBudW1fY29scyk7DQp2b2lkIHByaW50QXJyYXkoaW50
+IEFbXVtDT0xdLCBpbnQgbnVtX3Jvd3MsIGludCBudW1fY29scyk7DQoNCg0K
+aW50IG1haW4oKXsNCglpbnQgQVtST1ddW0NPTF07DQoJc3JhbmQodGltZShO
+VUxMKSk7DQoJZmlsbFJhbmRvbShBLCBST1csIENPTCk7DQoJcHJpbnRBcnJh
+eShBLCBST1csIENPTCk7DQoJY291bnQoQSwgUk9XLCBDT0wpOw0KCXJldHVy
+biAwOw0KfQ0KDQp2b2lkIGNvdW50KGludCBBW11bQ09MXSwgaW50IG51bV9y
+b3dzLCBpbnQgbnVtX2NvbHMpew0KCWludCBpLCBqOw0KCWludCBjb3VudDA9
+MCwgY291bnQxPTAsIGNvdW50Mj0wLCBjb3VudDM9MCwgY291bnQ0PTA7DQoJ
+Zm9yKGk9MDtpPG51bV9yb3dzOyBpKyspew0KCQlmb3Ioaj0wO2o8bnVtX2Nv
+bHM7aisrKXsNCgkJCWlmKEFbaV1bal09PTApew0KCQkJCWNvdW50MCsrOw0K
+CQkJfQ0KCQkJZWxzZSBpZihBW2ldW2pdPT0xKXsNCgkJCQljb3VudDErKzsN
+CgkJCX0NCgkJCWVsc2UgaWYoQVtpXVtqXT09Mil7DQoJCQkJY291bnQyKys7
+DQoJCQl9DQoJCQllbHNlIGlmKEFbaV1bal09PTMpew0KCQkJCWNvdW50Mysr
+Ow0KCQkJfQ0KCQkJZWxzZSBpZihBW2ldW2pdPT00KXsNCgkJCQljb3VudDQr
+KzsNCgkJCX0NCgkJfQkNCgl9DQoJcHJpbnRmKCJudW1iZXIgb2YgMCdzICVk
+XG4iLCBjb3VudDApOw0KCXByaW50ZigibnVtYmVyIG9mIDEncyAlZFxuIiwg
+Y291bnQxKTsNCglwcmludGYoIm51bWJlciBvZiAyJ3MgJWRcbiIsIGNvdW50
+Mik7DQoJcHJpbnRmKCJudW1iZXIgb2YgMydzICVkXG4iLCBjb3VudDMpOw0K
+CXByaW50ZigibnVtYmVyIG9mIDQncyAlZFxuIiwgY291bnQ0KTsNCn0NCnZv
+aWQgZmlsbFJhbmRvbShpbnQgQVtdW0NPTF0sIGludCBudW1fcm93cywgaW50
+IG51bV9jb2xzKXsNCglpbnQgaSwgajsgDQoJZm9yKGk9MDtpPG51bV9yb3dz
+O2krKyl7DQoJCWZvcihqPTA7ajxudW1fY29scztqKyspew0KCQkJQVtpXVtq
+XT0ocmFuZCgpICUgNSk7DQoJCX0NCgl9DQp9DQoNCg0Kdm9pZCBwcmludEFy
+cmF5KGludCBBW11bQ09MXSwgaW50IG51bV9yb3dzLCBpbnQgbnVtX2NvbHMp
+ew0KCWludCBpLCBqOw0KCWZvcihpPTA7aTxudW1fcm93cztpKyspew0KCQlm
+b3Ioaj0wO2o8bnVtX2NvbHM7aisrKXsNCgkJCXByaW50ZigiJWQgIiwgQVtp
+XVtqXSk7DQoJCX0NCgkJcHJpbnRmKCJcbiIpOw0KCX0NCn0NCg==
+
+--529731754-1043195202-1430335994=:8891--
+

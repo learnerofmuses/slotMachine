@@ -1,0 +1,8 @@
+#include<stdio.h>
+#define SIZE 15
+
+int main(){
+	char word[SIZE]
+
+
+}

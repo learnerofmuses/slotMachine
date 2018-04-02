@@ -1,0 +1,36 @@
+import java.util.HashSet;
+
+public class PhoneNumber {
+		private String areaCode;
+		private String prefix;
+		private String number;
+		
+		public PhoneNumber(String deadpool){
+			String [] myArray= deadpool.split(" - ");
+			
+			
+		}	
+		public String toString(){
+			return areaCode + "-" + prefix + "-" + number;
+		}
+		
+		public addEntry(String name, String pNum){
+			phoneNumber = new phoneNumber
+		}
+		
+		public String getAreaCode(String t){
+			return areaCode;
+		}
+		
+		public String getPrefix(){
+			return prefix;
+		}
+		
+		public String getNumber(){
+			return number;
+		}
+}	
+
+
+
+

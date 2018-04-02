@@ -1,0 +1,10 @@
+#Tyler Scott
+#Feb 9 2013
+
+#Write a function OddRemove that has one parameter - list of integers. The 
+#function counts the number of odd elements, creates a new list that include 
+#all odd elements, removes all odd elements from the original list.
+#Function returns the counter (the number of odd elements) and the list of 
+#odd elements.
+
+

@@ -1,0 +1,40 @@
+#name: Tyler
+#date: OCT 6 2012
+
+#we will write a function foreign_fee that 
+#has two formal parameters
+#purchase and percent
+#this function will calculate and print the
+#foreign transaction fee
+
+#we will write a main function that will ask user to enter 
+#price of item and then calculate and display 
+#foreign transaction fee for each credit card
+
+#we will declare three global constants to hold transaction fee
+#for each credit card 
+
+A=0.02
+B=0.01
+C=0.03
+
+def foreign_fee(purchase,percent):
+	
+	result = purchase*percent
+	print(result)
+def main():
+	#Part I:
+	A_express= float(input("enter transaction foreign fee for American Express card "))
+	Master_card= float(input("enter transaction foreign fee for Master card "))
+	B_o_A= float(input("enter transaction foreign fee Bank of America card "))
+
+	#Part II: function calls
+	
+	print("the foreign fee from using American Express card is ")
+	print()
+	print("the foreign fee from using MasterCard card is ")
+	print(Master_card, B)
+	print("the foreign fee from using Bank of America card is ")
+	print(B_o_A, C)
+
+main()

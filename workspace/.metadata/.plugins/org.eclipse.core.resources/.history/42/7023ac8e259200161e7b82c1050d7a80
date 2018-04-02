@@ -1,0 +1,37 @@
+/*Tyler Scott*/
+public class Numbers {
+	private int[]Fun;
+	public Numbers() {
+		Fun = new int[42];
+		// TODO Auto-generated constructor stub
+	}
+	public void fillSequence(){
+		int i=0;
+		for(int t=0;t<43;t++){
+		/**FINISH METHOD**/	
+		}
+	}
+	public void printArray(){
+		for(int t=0; t<Fun.length;t++){
+			System.out.println(Fun[t]);
+		}
+	}
+	public static void main(String[] args){
+		Numbers n = new Numbers();
+		n.fillSequence();
+		n.printArray();
+	}
+	public void fillMultiple(n){
+		for()
+	}
+	public void printLessThan(x){
+		for(t=0; t<x; t++){
+			System.out.println(Fun[t]);
+		}
+	}
+	public void equals(other){
+		for(){
+			
+		}
+	}
+}

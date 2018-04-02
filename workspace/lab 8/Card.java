@@ -1,0 +1,113 @@
+/**
+ * An object of this class represents a single playing card.
+ * Each card has a rank and a suit.
+ * This class poses no restrictions on the values the rank and suit can have.
+ */
+public class Card {
+
+    private int rank;
+    private String suit;
+    
+    /**
+     * Constructor - must provide the rank and suit.
+     * @param rank card's rank as an integer (11-14 are Jack, Queen, King and Ace)
+     * @param suit card's suit
+     */
+    public Card(int rank, String suit) {
+        this.rank = rank;
+        this.suit = suit;
+    }
+    
+    /**
+     * Copy constructor - the new object is a copy of the given object.
+     * @param otherCard the card to copy
+     */
+    public Card(Card otherCard) {
+        this.rank = otherCard.rank;
+        this.suit = otherCard.suit;
+    }
+    //*CORRECT SOLUTION
+    
+ /**public boolean equals(Object other){
+  * 	if(other instanceof Card){
+  * 		Card c = (Card) other;
+  * 		return rank == c.rank && suit.equals(c.suit);
+  * 	}else{
+  * 		return false;
+  * 	}
+  * }
+  */
+    public boolean equals(Object obj){
+    	if(obj instanceof Card){
+    		obj=rank;
+    		obj=suit; 
+    	else{
+    		return false; 
+    	}
+    }
+    /**
+     * Accessor method for the rank.
+     * @return card's rank as an integer
+     */
+    public int getRank() {
+        return rank;
+    }
+    
+    /**
+     * Accessor method for the rank.
+     * @return card's rank as a String
+     */
+    public String getRankName() {
+        switch(rank) {
+            case 11: return "Jack"; 
+            case 12: return "Queen";
+            case 13: return "King"; 
+            case 14: return "Ace"; 
+            default: return rank + "";
+        }
+        
+    }
+    
+    /**
+     * Accessor method for the suit.
+     * @return card's suit
+     */
+    public String getSuit() {
+        return suit;
+    }
+    
+    /**
+     * Mutator method for the rank.
+     * Places no restrictions on the value of the rank.
+     * @param newRank the new rank for the card.
+     */
+    public void setRank(int newRank) {
+        rank = newRank;
+    }
+    
+    /**
+     * Mutator method for the suit.
+     * Places no restrictions on the value of the suit.
+     * @param newSuit the new suit for the card.
+     */
+    public void setSuit(String newSuit) {
+        suit = newSuit;
+    }
+    
+    /**
+     * Tests if this card is a face card.
+     * @return true if the card is a face card and false otherwise.
+     */
+    public boolean isFaceCard() {
+        return (rank > 10 && rank < 14);
+    }
+    
+    /**
+     * Converts the card into a string so it can be printed.
+     * @return the card formatted as a string.
+     */
+    public String toString() {
+        return getRankName() + " of " + suit;
+    }
+    
+}

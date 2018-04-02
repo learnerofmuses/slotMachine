@@ -1,0 +1,180 @@
+import java.util.NoSuchElementException;
+
+/**
+ * A linked-list implementation of the Queue interface.
+ * 
+ * @author CSCI 258
+ *
+ * @param <E> component type
+ */
+public class LinkedQueue<E> implements Queue<E> {
+	
+	String name = new name[5];
+	for(int i=0; i<5; i++){
+		System.out.println("Enter 5 names: ");
+		String name[i] = askName.nextInt();
+		
+	}
+	// Linked list is comprised of Node objects
+	private class Node {
+		private E element;
+		private Node link;
+	}
+	
+	private Node head;	// Reference to first node in list
+	private Node tail;	// Reference to last node in list
+	private int size;	// Number of elements in list
+	
+	public LinkedQueue() {
+		head = null;
+		tail = null;
+		size = 0;
+	}
+
+	/**
+	 * Adds the given element to the tail of the queue.
+	 * @param element element to add
+	 */
+	@Override
+	public void add(E element) {
+		Node n = new Node();
+		n.element = element;
+		n.link = null;
+		if (head == null) {
+			head = n;
+		} else {
+			tail.link = n;
+		}
+		tail = n;
+		size++;
+	}
+
+	/**
+	 * Removed and returns the element at the head of the queue.
+	 * @return element at head of queue
+	 * @throws NoSuchElementException if queue is empty
+	 */
+	@Override
+	public E remove() {
+		if (head == null) {
+			throw new NoSuchElementException("empty queue");
+		} else {
+			E doomed = head.element;
+			head = head.link;
+			if (head == null) {
+				tail = null;
+			}
+			size--;
+			return doomed;
+		}
+	}
+
+	/**
+	 * Returns the size (i.e. number of elements) of the queue.
+	 * @return size of queue
+	 */
+	@Override
+	public int size() {
+		return size;
+	}
+	/**
+	 * Adds method to LinkedQueue class
+	 * 
+	 * @returns true if given element is located in the queue and false otherwise 
+	 */
+	public boolean contains(Object o){
+		for(Node n = head; n!=null; n = n.link){
+			if(n.element.equals(o)){
+				return true;
+			}
+		}
+		
+		return false;
+	}
+
+	/**
+	 * Adds method to the LinkedQueue class
+	 * returns the incremented size 
+	 * Counts the number of times the given element appears in the queue
+	 */
+	public int countOccurences(Object o){
+		int counter = 0;
+		for(Node n = head; n!=null; n=n.link){
+			if(n.element.equals(o)){
+				size++;
+			}
+		}
+			return size;
+	}
+	/**
+	 * Adds method to LinkedQUeue class but must be format of a string 
+	 * returns the queue formatted as a string 
+	 */
+	public String toString(){
+		String s = "[";
+		for(Node n = head; n!=null; n=n.link){
+			if(n.link==null){
+				s+=n.element+"]";
+			}
+			else{
+				s+=n.element+" ";
+			}
+			return s; 
+			
+			}
+		}
+	}
+
+	public LinkedQueue(LinkedQueue<?extends E > q){
+		head = (Node) q.head;
+		tail = (Node) q.tail;
+		size = q.size;
+	}
+
+	public boolean equals(Object o){
+		boolean master = true;
+		LinkedQueue<E> m = (LinkedQueue<E>)o;
+		Node n = m.head;
+		Node i = head;
+		if(m.size() !=this.size){
+			return !m;
+			
+		}
+		while(n!=null && i!=null){
+			if(!(n.equals(i))){
+				return !m;
+			}
+			n=n.link;
+			i=i.link;
+		}
+		return m;
+	}
+	return !m;
+	}
+	public static void main(String[] args){
+		LinkedQueue<String> m = new LinkedQueue<String>();
+		System.out.println("Enter five names if you must:");
+		Scanner scan = new Scanner(System.in);
+		for(int i=0; i<length; i++){
+			String line = scan.nextLine();
+			m.add(line);
+		}
+		LinkedQueue<String> a = new LinkedQueue<String>();
+		System.out.println(m.toString());
+		System.println();
+		System.out.println(m.countOccurrences("Big Ben")+ "times");
+		System.out.println();
+		System.out.print.ln("current size"+m.size("Big Ben"));
+		System.out.println();
+		System.out.println("");
+		System.out.println("This is the outcome after removing: \n";)
+		for(int i=0; i<length; i++){
+			System.out.println(m.remove());
+		}
+		System.out.println();
+		System.out.println(m.toString());
+		System.println();
+
+	}
+	
+}

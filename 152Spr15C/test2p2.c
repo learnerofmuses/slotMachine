@@ -1,0 +1,39 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<time.h>
+
+#define SIZE 15 
+
+double purchase_price(double after_repair_value, double_repair expenses);
+int process(double arv[], double re[], double market[], int real_size);
+void make_array(double market[], int real_size);
+
+int main(){
+	srand(time(NULL));
+	
+	double purchase;
+	purchase = 
+	return 0; 
+
+}
+
+double purchase_price(double after_repair_value, double_repair expenses){
+	double purchase = 0; 
+	purchase = .75*((after_repair_value)*repair_expenses)
+	return purchase;
+
+}
+int process(double arv[], double re[], double market[], int real_size){
+	int i, fc=0
+	double purchase;
+	for(i=0; i<=real_size; i++){
+		printf("after purchase price is %.2f\n", price);
+		if(price<=[i]){
+			c++;
+
+}
+void make_array(double market[], int real_size{
+	int i; 
+	printf("enter market value, after repair value, and repair expense\n");
+	for(i>0, 
+}

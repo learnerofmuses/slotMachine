@@ -1,0 +1,154 @@
+From MAILER-DAEMON Fri May  1 10:53:55 2015
+Date: 01 May 2015 10:53:55 -0400
+From: Mail System Internal Data <MAILER-DAEMON@columbia.cs.widener.edu>
+Subject: DON'T DELETE THIS MESSAGE -- FOLDER INTERNAL DATA
+Message-ID: <1430492035@columbia.cs.widener.edu>
+X-IMAP: 1430491950 0000000002
+Status: RO
+
+This text is part of the internal format of your mail folder, and is not
+a real message.  It is created automatically by the mail system software.
+If deleted, important folder data will be lost, and it will be re-created
+with the data reset to initial values.
+
+From scott@columbia.cs.widener.edu Fri May  1 10:53:02 2015 -0400
+Date: Fri, 1 May 2015 10:53:02 -0400 (EDT)
+From: Tyler Scott <scott@columbia.cs.widener.edu>
+To: Yana Kortsarts <yanako@columbia.cs.widener.edu>
+Message-ID: <alpine.LNX.2.11.1505011052350.28381@columbia.cs.widener.edu>
+User-Agent: Alpine 2.11 (LNX 23 2013-08-11)
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY="529745578-1410443-1430491982=:28381"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 1
+
+--529745578-1410443-1430491982=:28381
+Content-Type: TEXT/PLAIN; format=flowed; charset=US-ASCII
+
+--529745578-1410443-1430491982=:28381
+Content-Type: TEXT/PLAIN; charset=US-ASCII; name=miniquiz.c
+Content-Transfer-Encoding: BASE64
+Content-ID: <alpine.LNX.2.11.1505011053020.28381@columbia.cs.widener.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=miniquiz.c
+
+I2luY2x1ZGU8c3RkaW8uaD4NCiNpbmNsdWRlPHN0ZGxpYi5oPg0KI2luY2x1
+ZGU8dGltZS5oPg0KI2RlZmluZSBST1cgNA0KI2RlZmluZSBDT0wgMw0KDQoN
+Cg0Kdm9pZCBwcm9jZXNzKGludCBBW11bQ09MXSwgaW50IHJvdywgaW50IGNv
+bCwgaW50IGdyYWRlc1tdKTsgDQp2b2lkIGZpbGxSYW5kb20oaW50IEFbXVtD
+T0xdLCBpbnQgbnVtX3Jvd3MsIGludCBudW1fY29scyk7DQp2b2lkIHByaW50
+QXJyYXkoaW50IEFbXVtDT0xdLCBpbnQgbnVtX3Jvd3MsIGludCBudW1fY29s
+cyk7DQppbnQgbWF4UG9zaXRpb24oaW50IEFbXSwgaW50IE5yb3dzKTsNCg0K
+DQppbnQgbWFpbigpew0KCWludCBBW1JPV11bQ09MXTsNCglpbnQgZ3JhZGVz
+WzEwMF07DQoJaW50IGZyZXE9MDsNCglzcmFuZCh0aW1lKE5VTEwpKTsNCglm
+aWxsUmFuZG9tKEEsIFJPVywgQ09MKTsNCglwcmludEFycmF5KEEsIFJPVywg
+Q09MKTsNCglwcm9jZXNzKEEsIFJPVywgQ09MLCBncmFkZXMpOw0KCW1heFBv
+c2l0aW9uKGdyYWRlcywgUk9XKTsNCglmcmVxPW1heFBvc2l0aW9uKGdyYWRl
+cywgUk9XKTsNCgkvKmZyZXE9Z3JhZGVzKG1heCkqLw0KCWlmKGZyZXE9PTAp
+ew0KCQlwcmludGYoImZyZXF1ZW50IGdyYWRlIGlzIEFcbiIpOw0KCX0NCgll
+bHNlIGlmKGZyZXE9PTEpew0KCQlwcmludGYoImZyZXF1ZW50IGdyYWRlIGlz
+IEJcbiIpOw0KCX0gDQoJZWxzZSBpZihmcmVxPT0yKXsNCgkJcHJpbnRmKCJm
+cmVxdWVudCBncmFkZSBpcyBDXG4iKTsNCgl9DQoJZWxzZSBpZihmcmVxPT0z
+KXsNCgkJcHJpbnRmKCJmcmVxdWVudCBncmFkZSBpcyBEXG4iKTsNCgl9DQoJ
+ZWxzZSBpZihmcmVxPT00KXsNCgkJcHJpbnRmKCJmcmVxdWVudCBncmFkZSBp
+cyBGXG4iKTsNCgl9DQoJcmV0dXJuIDA7DQp9DQoNCg0KDQp2b2lkIHByb2Nl
+c3MoaW50IEFbXVtDT0xdLCBpbnQgcm93LCBpbnQgY29sLCBpbnQgZ3JhZGVz
+W10pew0KCWludCBpLCBqOw0KCWludCBjb3VudEE9MCwgY291bnRCPTAsIGNv
+dW50Qz0wLCBjb3VudEQ9MCwgY291bnRGPTA7DQoJZm9yKGk9MDtpPHJvdztp
+Kyspew0KCQlmb3Ioaj0wO2o8Y29sO2orKyl7DQoJCQlpZihBW2ldW2pdPj0w
+ICYmIEFbaV1bal08PTU5KXsNCgkJCQlncmFkZXNbNF0rKzsNCgkJCX0NCgkJ
+CWVsc2UgaWYoQVtpXVtqXT49NjAgJiYgQVtpXVtqXTw9Njkpew0KCQkJCWdy
+YWRlc1szXSsrOw0KCQkJfQ0KCQkJZWxzZSBpZihBW2ldW2pdPj03MCAmJiBB
+W2ldW2pdPD03OSl7DQoJCQkJZ3JhZGVzWzJdKys7DQoJCQl9DQoJCQllbHNl
+IGlmKEFbaV1bal0+PTgwICYmIEFbaV1bal08PTg5KXsNCgkJCQlncmFkZXNb
+MV0rKzsNCgkJCX0NCgkJCWVsc2UgaWYoQVtpXVtqXT49OTAgJiYgQVtpXVtq
+XTw9MTAwKXsNCgkJCQlncmFkZXNbMF0rKzsNCgkJCX0NCgkJfQ0KCX0NCgkN
+Cn0NCnZvaWQgZmlsbFJhbmRvbShpbnQgQVtdW0NPTF0sIGludCBudW1fcm93
+cywgaW50IG51bV9jb2xzKXsNCglpbnQgaSwgajsgDQoJZm9yKGk9MDtpPG51
+bV9yb3dzO2krKyl7DQoJCWZvcihqPTA7ajxudW1fY29scztqKyspew0KCQkJ
+QVtpXVtqXT0ocmFuZCgpICUxMDEpOw0KCQl9DQoJfQ0KfQ0Kdm9pZCBwcmlu
+dEFycmF5KGludCBBW11bQ09MXSwgaW50IG51bV9yb3dzLCBpbnQgbnVtX2Nv
+bHMpew0KCWludCBpLCBqOw0KCWZvcihpPTA7aTxudW1fcm93cztpKyspew0K
+CQlmb3Ioaj0wO2o8bnVtX2NvbHM7aisrKXsNCgkJCXByaW50ZigiJWQgIiwg
+QVtpXVtqXSk7DQoJCX0NCgkJcHJpbnRmKCJcbiIpOw0KCX0NCn0NCg0KaW50
+IG1heFBvc2l0aW9uKGludCBBW10sIGludCBOcm93cyl7DQoJaW50IGksIG1h
+eCwgaW5kZXg7DQoJbWF4PUFbMF07DQoJaW5kZXg9MDsNCglmb3IoaT0wO2k8
+TnJvd3M7aSsrKXsNCgkJaWYoQVtpXT5tYXgpew0KCQkJaW5kZXg9MTsNCgkJ
+CW1heD1BW2ldOw0KCQl9DQoJfQ0KCXJldHVybiBpbmRleDsNCn0NCg==
+
+--529745578-1410443-1430491982=:28381--
+
+From scott@columbia.cs.widener.edu Fri May  1 10:53:55 2015 -0400
+Date: Fri, 1 May 2015 10:53:55 -0400 (EDT)
+From: Tyler Scott <scott@columbia.cs.widener.edu>
+To: Yana Kortsarts <yanako@columbia.cs.widener.edu>
+Message-ID: <alpine.LNX.2.11.1505011053120.28406@columbia.cs.widener.edu>
+User-Agent: Alpine 2.11 (LNX 23 2013-08-11)
+MIME-Version: 1.0
+Content-Type: MULTIPART/MIXED; BOUNDARY="529745578-1535552045-1430492035=:28406"
+Status: 
+X-Status: 
+X-Keywords:                   
+X-UID: 2
+
+--529745578-1535552045-1430492035=:28406
+Content-Type: TEXT/PLAIN; format=flowed; charset=US-ASCII
+
+
+last mini quiz runs but cannot get to print what the most frequent/maximum 
+grade is
+--529745578-1535552045-1430492035=:28406
+Content-Type: TEXT/PLAIN; charset=US-ASCII; name=miniquiz.c
+Content-Transfer-Encoding: BASE64
+Content-ID: <alpine.LNX.2.11.1505011053550.28406@columbia.cs.widener.edu>
+Content-Description: 
+Content-Disposition: attachment; filename=miniquiz.c
+
+I2luY2x1ZGU8c3RkaW8uaD4NCiNpbmNsdWRlPHN0ZGxpYi5oPg0KI2luY2x1
+ZGU8dGltZS5oPg0KI2RlZmluZSBST1cgNA0KI2RlZmluZSBDT0wgMw0KDQoN
+Cg0Kdm9pZCBwcm9jZXNzKGludCBBW11bQ09MXSwgaW50IHJvdywgaW50IGNv
+bCwgaW50IGdyYWRlc1tdKTsgDQp2b2lkIGZpbGxSYW5kb20oaW50IEFbXVtD
+T0xdLCBpbnQgbnVtX3Jvd3MsIGludCBudW1fY29scyk7DQp2b2lkIHByaW50
+QXJyYXkoaW50IEFbXVtDT0xdLCBpbnQgbnVtX3Jvd3MsIGludCBudW1fY29s
+cyk7DQppbnQgbWF4UG9zaXRpb24oaW50IEFbXSwgaW50IE5yb3dzKTsNCg0K
+DQppbnQgbWFpbigpew0KCWludCBBW1JPV11bQ09MXTsNCglpbnQgZ3JhZGVz
+WzEwMF07DQoJaW50IGZyZXE9MDsNCglzcmFuZCh0aW1lKE5VTEwpKTsNCglm
+aWxsUmFuZG9tKEEsIFJPVywgQ09MKTsNCglwcmludEFycmF5KEEsIFJPVywg
+Q09MKTsNCglwcm9jZXNzKEEsIFJPVywgQ09MLCBncmFkZXMpOw0KCW1heFBv
+c2l0aW9uKGdyYWRlcywgUk9XKTsNCglmcmVxPW1heFBvc2l0aW9uKGdyYWRl
+cywgUk9XKTsNCgkvKmZyZXE9Z3JhZGVzKG1heCkqLw0KCWlmKGZyZXE9PTAp
+ew0KCQlwcmludGYoImZyZXF1ZW50IGdyYWRlIGlzIEFcbiIpOw0KCX0NCgll
+bHNlIGlmKGZyZXE9PTEpew0KCQlwcmludGYoImZyZXF1ZW50IGdyYWRlIGlz
+IEJcbiIpOw0KCX0gDQoJZWxzZSBpZihmcmVxPT0yKXsNCgkJcHJpbnRmKCJm
+cmVxdWVudCBncmFkZSBpcyBDXG4iKTsNCgl9DQoJZWxzZSBpZihmcmVxPT0z
+KXsNCgkJcHJpbnRmKCJmcmVxdWVudCBncmFkZSBpcyBEXG4iKTsNCgl9DQoJ
+ZWxzZSBpZihmcmVxPT00KXsNCgkJcHJpbnRmKCJmcmVxdWVudCBncmFkZSBp
+cyBGXG4iKTsNCgl9DQoJcmV0dXJuIDA7DQp9DQoNCg0KDQp2b2lkIHByb2Nl
+c3MoaW50IEFbXVtDT0xdLCBpbnQgcm93LCBpbnQgY29sLCBpbnQgZ3JhZGVz
+W10pew0KCWludCBpLCBqOw0KCWludCBjb3VudEE9MCwgY291bnRCPTAsIGNv
+dW50Qz0wLCBjb3VudEQ9MCwgY291bnRGPTA7DQoJZm9yKGk9MDtpPHJvdztp
+Kyspew0KCQlmb3Ioaj0wO2o8Y29sO2orKyl7DQoJCQlpZihBW2ldW2pdPj0w
+ICYmIEFbaV1bal08PTU5KXsNCgkJCQlncmFkZXNbNF0rKzsNCgkJCX0NCgkJ
+CWVsc2UgaWYoQVtpXVtqXT49NjAgJiYgQVtpXVtqXTw9Njkpew0KCQkJCWdy
+YWRlc1szXSsrOw0KCQkJfQ0KCQkJZWxzZSBpZihBW2ldW2pdPj03MCAmJiBB
+W2ldW2pdPD03OSl7DQoJCQkJZ3JhZGVzWzJdKys7DQoJCQl9DQoJCQllbHNl
+IGlmKEFbaV1bal0+PTgwICYmIEFbaV1bal08PTg5KXsNCgkJCQlncmFkZXNb
+MV0rKzsNCgkJCX0NCgkJCWVsc2UgaWYoQVtpXVtqXT49OTAgJiYgQVtpXVtq
+XTw9MTAwKXsNCgkJCQlncmFkZXNbMF0rKzsNCgkJCX0NCgkJfQ0KCX0NCgkN
+Cn0NCnZvaWQgZmlsbFJhbmRvbShpbnQgQVtdW0NPTF0sIGludCBudW1fcm93
+cywgaW50IG51bV9jb2xzKXsNCglpbnQgaSwgajsgDQoJZm9yKGk9MDtpPG51
+bV9yb3dzO2krKyl7DQoJCWZvcihqPTA7ajxudW1fY29scztqKyspew0KCQkJ
+QVtpXVtqXT0ocmFuZCgpICUxMDEpOw0KCQl9DQoJfQ0KfQ0Kdm9pZCBwcmlu
+dEFycmF5KGludCBBW11bQ09MXSwgaW50IG51bV9yb3dzLCBpbnQgbnVtX2Nv
+bHMpew0KCWludCBpLCBqOw0KCWZvcihpPTA7aTxudW1fcm93cztpKyspew0K
+CQlmb3Ioaj0wO2o8bnVtX2NvbHM7aisrKXsNCgkJCXByaW50ZigiJWQgIiwg
+QVtpXVtqXSk7DQoJCX0NCgkJcHJpbnRmKCJcbiIpOw0KCX0NCn0NCg0KaW50
+IG1heFBvc2l0aW9uKGludCBBW10sIGludCBOcm93cyl7DQoJaW50IGksIG1h
+eCwgaW5kZXg7DQoJbWF4PUFbMF07DQoJaW5kZXg9MDsNCglmb3IoaT0wO2k8
+TnJvd3M7aSsrKXsNCgkJaWYoQVtpXT5tYXgpew0KCQkJaW5kZXg9MTsNCgkJ
+CW1heD1BW2ldOw0KCQl9DQoJfQ0KCXJldHVybiBpbmRleDsNCn0NCg==
+
+--529745578-1535552045-1430492035=:28406--
+

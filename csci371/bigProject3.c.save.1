@@ -1,0 +1,210 @@
+#include<GL/glut.h>
+#include<GL/gl.h>
+#include<GL/glu.h>
+#include<math.h> 
+#include<stdlib.h>
+#include<time.h>
+#include<stdio.h> 
+
+#define dtr 0.017453
+
+GLfloat theta = 0.0; 
+
+void add(double n1[2], double n2[2], double arr[2]); 
+void mult(double n1[2], double n2[2], double arr[2]); 
+void orbit(double z[2], double c[2], double arr[2]); 
+double radius(double n1[2]); 
+void square(double n1[2], double arr[2]); 
+
+void display(){ 
+	glClear(GL_COLOR_BUFFER_BIT);
+	glPointSize(35.0); 
+	glLineWidth(2.5); 
+	glColor3f(1.0, 1.0, 0.0); 
+	double scale = 55; 
+	double tulp = 0.05;
+	double scaleCent = 0.1;
+	double scaleES = 0.3;
+	double Fan = 3.5;
+
+	glBegin(GL_POLYGON);
+		glVertex2f(0.1, -1.5);
+		glVertex2f(0.1, 0);
+		glVertex2f(-0.1, 0);
+		glVertex2f(-0.1, 1.5);
+	glEnd();
+
+	//base of windmill
+
+	//right portion of windmill 
+	glColor3f(0.5, 0.0, 0.0); 
+	glBegin(GL_POLYGON); 
+		glVertex2f(0.5, -0.5); 
+		glVertex2f(0.5, -1.0); 
+		glVertex2f(0.2, -1.0); 
+		glVertex2f(0.2, -0.5); 
+	glEnd(); 
+	
+	//left portion of windmill
+	glBegin(GL_POLYGON); 
+		glVertex2f(-0.2, -0.5); 
+		glVertex2f(-0.2, -1.0); 
+		glVertex2f(-0.5, -0.95); 
+		glVertex2f(-0.5, -0.5); 
+	glEnd(); 	
+
+	//midd portion of base
+	glColor3f(1.0, 0.0, 0.0); 
+	glBegin(GL_POLYGON); 
+		glVertex2f(0.2, -0.5); 
+		glVertex2f(0.2, -1.0); 
+		glVertex2f(-0.2, -1.0); 
+		glVertex2f(-0.2, -0.5); 
+	glEnd(); 
+	//END OF MAIN BASE PORTION  
+	//RIGHT TRIANGULAR BASE
+	glColor3f(0.5, 0.0, 1.0); 
+	glBegin(GL_POLYGON); 
+		glBegin(GL_POLYGON); 
+		glVertex2f(0.2, -0.5); 	
+		glVertex2f(0.1, 0.5); 
+		glVertex2f(0.5, -0.5); 
+	glEnd(); 
+	//LEFT TRIANGULAR BASE
+	glColor3f(1.0, 0.0, 1.0); 
+	glBegin(GL_POLYGON); 
+		glVertex2f(-0.5, -0.5); 
+		glVertex2f(-0.3, -0.25); 
+		glVertex2f(-0.2, 0.25); 
+		glVertex2f(-0.1, 0.5); 
+		glVertex2f(-0.2, -0.5); 
+	glEnd(); 
+	//MIDD TRIANGULAR BASE
+	glColor3f(0.5, 0.0, 1.0); 
+	glBegin(GL_POLYGON); 
+		glBegin(GL_POLYGON); 
+		glVertex2f(-0.2, -0.5); 
+		glVertex2f(-0.1, 0.5); 
+		glVertex2f(0.1, 0.5); 
+		glVertex2f(0.2, -0.5); 
+	glEnd(); 
+
+
+	//WINDMILL FF
+	glBegin(GL_POLYGON);
+		glVertex2f(Fan*cos(dtr*(theta + 5)), 1.0+Fan*sin(dtr*(theta + 5))); 
+		glVertex2f(Fan*cos(dtr*(theta + 175)), 1.0+Fan*sin(dtr*(theta + 175)));
+		glVertex2f(Fan*cos(dtr*(theta + 185)), 1.0+Fan*sin(dtr*(theta + 185)));
+		glVertex2f(Fan*cos(dtr*(theta + 355)), 1.0+Fan*sin(dtr*(theta + 355)));
+	glEnd();
+	//WINDMILL SF
+	glBegin(GL_POLYGON);
+		glVertex2f(Fan*cos(dtr*(theta+85)), 1.0+Fan*sin(dtr*(theta + 85)));
+		glVertex2f(Fan*cos(dtr*(theta+95)), 1.0+Fan*sin(dtr*(theta + 95)));
+		glVertex2f(Fan*cos(dtr*(theta+265)), 1.0+Fan*sin(dtr*(theta + 265)));
+		glVertex2f(Fan*cos(dtr*(theta+275)), 1.0+Fan*sin(dtr*(theta + 275)));
+	glEnd();
+
+	//ENGINE POINTS AND COLOR SCHEME
+	glColor3f(0.2, 0.2, 0.2);
+	glBegin(GL_POLYGON);
+		glVertex2f(0.1, 0.4);
+		glVertex2f(0.1, 0.2);
+		glVertex2f(-0.1, 0.2);
+		glVertex2f(-0.1, 0.4);
+	glEnd();
+	glColor3f(0.2, 0.2, 0.2);
+
+	//SCREW FOR FAN
+	glColor3f(1.0, 0.0, 0.5);
+	glBegin(GL_POLYGON);
+		glVertex2f(scaleCent*cos(dtr*(theta + 45)),
+1.0+scaleCent*sin(dtr*(theta + 45)));
+		glVertex2f(scaleCent*cos(dtr*(theta + 135)),
+1.0+scaleCent*sin(dtr*(theta + 135)));
+		glVertex2f(scaleCent*cos(dtr*(theta + 225)),
+1.0+scaleCent*sin(dtr*(theta + 225)));
+		glVertex2f(scaleCent*cos(dtr*(theta + 315)),
+1.0+scaleCent*sin(dtr*(theta + 315)));
+	glEnd();
+
+	glutSwapBuffers();
+}
+
+void mymotion(){
+	theta += 0.25;
+	if(theta>360.0) theta -= 360.0;
+	glutPostRedisplay();
+}
+
+void myKeyboard(unsigned char key, int x, int y){
+	if(key=='q' || key=='Q') exit(0);
+	if(key=='c') glutIdleFunc(mymotion);
+	if(key=='s') glutIdleFunc(NULL);
+
+}
+
+void add(double n1[2], double n2[2], double arr[2]){
+	arr[0]=n1[0]+n2[0];
+	arr[1]=n1[1]+n2[1];
+	return;
+}
+void mult(double n1[2], double n2[2], double arr[2]){
+	arr[0]=(n1[0]*n2[0]) + -1*(n1[1]*n2[1]);
+	arr[1]=(n1[0]*n2[1]) + (n1[1]*n2[0]);
+}
+double radius(double n1[2]){
+	double temp;
+	temp = sqrt(n1[0]*n1[0] + n1[1]*n1[1]);
+	return temp;
+}
+void orbit(double z[2], double c[2], double arr[2]){
+	double t1[2];
+	square(z, t1);
+	add(t1, c, arr);
+}
+void square(double n1[2], double arr[2]){
+	arr[0] = (n1[0]*n1[0]) + -1*(n1[1]*n1[1]);
+	arr[1] = (n1[0]*n1[1]) + (n1[1]*n1[0]);
+}
+
+void reshape(GLsizei w, GLsizei h){
+	GLsizei ww, hh;
+	float scale = 3.0;
+	float widthw = scale;
+	float heighth = scale;
+
+	glClearColor(0.0, 0.3, 0.6, 1.0);
+
+#define SCALE 0.1
+
+	glMatrixMode(GL_PROJECTION);
+	glLoadIdentity();
+
+
+	if(w<=h){
+
+		gluOrtho2D(-1*scale,scale,-1*scale*(GLfloat)h/(GLfloat)w, scale*(GLfloat)h/(GLfloat)w);
+	}
+	else{
+		gluOrtho2D(-1*scale*(GLfloat)w/(GLfloat)h, scale*(GLfloat)w/(GLfloat)h, -1*scale,scale); 
+	}
+
+	glMatrixMode(GL_MODELVIEW);
+	glViewPort(0,0,w,h);
+
+	ww=w;
+	hh=h;
+}
+
+int main(int argc, char** argv){
+	glutInit(&argc, argv);
+	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
+	glutInitWindowPosition(0,0);
+	glutInitWindowSize(500, 500);
+	glutCreateWindow("Big Project Numero Tres");
+	glutReshapeFunc(reshape);
+	glutDisplayFunc(display);
+	glutKeyboardFunc(myKeyboard);
+	glutMainLoop();
+}

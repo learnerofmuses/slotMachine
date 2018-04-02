@@ -1,0 +1,50 @@
+#Tyler
+#Dec 3 2012
+#Function sumNeg that has one parameter - the number of input integers. The 
+#function inputs integers, and finds and RETURNs the sum of the negative 
+#inputs. If there are no negative inputs, the function returns 0.
+#USE LOOP FOR in this function. 
+#Function averageEven that has NO parameters. The function inputs the 
+#series of positive integers. The first zero or negative terminates the 
+#input. The function finds and RETURNs the average of the EVEN input 
+#numbers. If there are no even inputs, the function returns -1.
+#In this function you can only use LOOP WHILE. 
+#Function menu that has one parameter - choice. The function performs the 
+#following: if the choice is 1, user is asked to enter the number of inputs 
+#and the function sumNeg is called. If the choice is 2, function average is 
+#called. For all other choices, function outputs error message. 
+#Write main function that reads one integer - user's choice and call 
+#function menu.
+
+def sumNeg(num):
+	sumNeg = 0 
+	countNeg = 0 
+	for i in range(num):
+		n = int(input(""))
+		countNeg = countNeg + 1 
+		sumNeg = sumNeg + n
+	if(countNeg > 0):
+		result = sumNeg
+	else:
+		result = 0
+	return result 
+	
+			
+def menu(choice):
+	if(choice == 1):
+		num = int(input("enter input size "))
+
+		while(num>=0):
+			print("try different number")
+			num = int(input("enter input size "))
+		print("enter", num, "inputs")	
+		res = sumNeg(num)
+		if(res <= 0):
+			print("no negative inputs")
+		else:
+			print("sum of negative inputs is ", res)
+
+		
+def main():
+	choice = int(input("user enter choice "))
+	menu(choice)

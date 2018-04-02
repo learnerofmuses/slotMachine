@@ -1,0 +1,8 @@
+
+public class TicketMachine {
+
+	public TicketMachine() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,18 @@
+
+public class ArrayPartition {
+	public static int partition(int[]a, int[]b, int start, int end){
+		int c[]  = new 
+		int x = start; 
+		int y = end; 
+		int i = 0; 
+	}
+		swap(a, start, start+(end-start+1));
+		int left = start;
+		int right = end;
+		if(left<right){
+			for(; left<right && a[left] <= a[start]; left++){
+				for(; a[right] > a[start]; right-- ){
+			}
+		}
+	}
+}

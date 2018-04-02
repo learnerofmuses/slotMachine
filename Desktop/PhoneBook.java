@@ -1,0 +1,28 @@
+import java.util.HashMap;
+
+public class PhoneBook {
+	private HashMap<String, PhoneNumber> Uncanny;
+	
+	public PhoneBook(){
+		Uncanny = new HashMap<String, PhoneNumber>();
+	}
+	
+	public void addEntry(String name, String pNum){
+		PhoneNumber newNumber = new PhoneNumber(pNum);
+		Uncanny.put(name, pNum);
+	}
+	
+	public PhoneNumber getNumber(String pancakes){
+		return Uncanny.get(pancakes);
+	}
+	
+	public void printListings
+	public static void main(String[] args) {
+		PhoneBook xMen = new PhoneBook();
+		xMen.addEntry("Wolverine", "263-779-8369");
+		xMen.addEntry("Phoenix", "632-977-9638");
+		xMen.addEntry("Cyclops", "326-797-3968");
+		xMen.addEntry("DeadpoolLovesChimichangas", "911-911-0000");
+	}
+
+}

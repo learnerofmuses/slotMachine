@@ -1,0 +1,33 @@
+/*Tyler Scott
+April 3 2013
+Write a program that reads a sequence of characters, character '%' will 
+terminate the input. finds the number of lower case letters, the number of 
+upper case letters, and the number of digits.*/
+
+#include <stdio.h>
+
+int main(){
+
+	char letter;
+	int count = 0, uppercase = 0, lowercase = 0, digits;
+	char i; 
+
+	printf("enter sequence of characters\n");
+	i = getchar();
+	while(i != "%"){
+		if(i >= 'a' && i <= 'z'){
+			lowercase++;
+		}
+		else if(i >= 'A' && i <= 'Z'){
+			uppercase++;
+		}
+		else{
+			printf("error");
+		}
+	}
+	printf("there are %d uppercase letters\n", uppercase);
+	printf("there are %d lowercase letters\n", lowercase);
+	printf("number of digits for uppercase letters are %d\n", digits);
+	printf("number of digits for lowercase letters are %d\n", digits);	
+	return 0;
+	}

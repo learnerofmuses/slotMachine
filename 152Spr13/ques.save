@@ -1,0 +1,13 @@
+def my_list(sizeR, sizeC, scores)
+	sum = 0 
+	my_list = []
+	for i in range(sizeRow):
+		for j in range(sizeCol):
+			if(i % 2 == 0):
+				item = my_list[i]
+				found = 1
+			if(found == -1):
+				my_list.append(item)
+	return sum, -1, 1
+
+				

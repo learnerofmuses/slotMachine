@@ -1,0 +1,9 @@
+package exceptionLab;
+
+public class UmbrellaStateException {
+
+	public UmbrellaStateException() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

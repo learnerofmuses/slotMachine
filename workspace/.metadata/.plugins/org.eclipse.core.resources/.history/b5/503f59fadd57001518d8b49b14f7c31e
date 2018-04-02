@@ -1,0 +1,15 @@
+
+public class TicketMachine {
+// fields/attributes
+	
+	
+//constructor
+private int cost;
+private int money_inserted;
+	
+//accessor methods
+	cost = 89;
+	money_inserted = 150;
+	
+//mutator methods	
+}

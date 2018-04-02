@@ -1,0 +1,16 @@
+#include<stdio.h>
+
+int countNegative();
+double aveLast();
+
+int countSeven(int n);
+
+int main(){
+	int n, 
+}
+
+int countNegative(){
+	int Ncount= 0, i;
+	for(i=10, i<=n, i++){
+		Ncount 
+

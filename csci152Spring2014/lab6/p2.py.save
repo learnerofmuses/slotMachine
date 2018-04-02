@@ -1,0 +1,11 @@
+#Write a function def remove_below(scores, threshold) that has two 
+#parameters, list of scores and the score threshold. The function 
+#removes all scores below the threshold from the list and creates a list 
+#of all scores below the threshold. The function returns the number of 
+#skaters who would not be able to compete and the list of their scores. 
+#Write a program that asks user to enter the number of skaters and the 
+#score for each skater - FLOAT NUMBER between 1.0 and 100.0 and uses 
+#functon remove_below to find the number of the skaters who would be 
+#able to continue, along with their scores, and the number of skaters 
+#who would not be able to continue along with their scores.
+

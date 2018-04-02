@@ -1,0 +1,33 @@
+
+public class TicketMachine {
+// fields/attributes
+private int cost;
+private int money_inserted;	
+//constructor
+	public TicketMachine() {
+	cost = 89 ;
+	money_inserted = 100;
+	
+	}
+//accessor methods
+	public int getCost(){
+	return cost;	
+	}
+	public int getCashInserted() {
+		return money_inserted;
+	}
+//mutator methods	
+	public void insertCash(int yen){
+		if(yen >= 0){
+			yen = money_inserted;
+	}
+	}
+	public void printTicket(){
+		if(yen >= cost){
+			System.out.println("New York to California");
+		else{
+			System.out.println("You cannot travel, not enough money");
+	}
+
+
+}

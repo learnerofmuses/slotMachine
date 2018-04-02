@@ -1,0 +1,9 @@
+package exceptionLab;
+
+public class BouncingBananaException {
+
+	public BouncingBananaException() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

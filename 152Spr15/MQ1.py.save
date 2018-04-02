@@ -1,0 +1,48 @@
+#Write a function: def separate(grades)
+
+#that has one parameter - list of grades in the class. The function 
+#creates and RETURNS 3 new lists - list of failing grades (grades below 
+#60), list of A grades (90 and above) and the rest of the grades 
+#(between 60 and 89).
+
+#Write a program that randomly generates the list of grades of size 15, 
+#calls function separate, and then prints THREE lists: failing grades, 
+#list of A grades, and the rest of the grades.
+
+SIZE = 15
+import random 
+
+def main():
+	grades = random.randint(0,59)
+	list=separate(grades)
+	print("list of failing grades")
+	print(list)
+	
+	
+	grades = random.randint(90,100)
+	list1=separate(grades)
+	print("list of A grades")
+	print(list1)
+	
+	
+	list2=separate(grades)
+	print("list of other grades")
+	print(list2)
+	
+def separate(grades):
+	num = [0]*SIZE
+	num1 = [0]*SIZE
+	num2 = [0]*SIZE
+	for i in range(SIZE):
+
+		num[i]=random.randint(0,59)
+	return num
+	for i in range(SIZE):
+		num1[i]=random.randint(90,100)
+	return num1
+
+	for i in range(SIZE):
+		num2[i]=random.randint(60,89)
+	return num2	
+	
+main()	

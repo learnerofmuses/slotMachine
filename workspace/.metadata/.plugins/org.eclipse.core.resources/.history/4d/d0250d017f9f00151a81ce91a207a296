@@ -1,0 +1,8 @@
+
+public class ProductionWorker {
+
+	public ProductionWorker() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,9 @@
+package exceptionLab;
+
+public class BouncingBananaException extends Runtime Exception{
+
+	public BouncingBananaException() {
+		super();
+	}
+
+}

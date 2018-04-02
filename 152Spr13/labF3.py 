@@ -1,0 +1,13 @@
+#this program solves quadratic and linear equations.
+
+import quadratic 
+import linear
+def main(): 
+	size = int("enter number of times to run "))
+	for i in range(size):
+		a = int(input("enter the value for a "))
+		b = int(input("enter the value for b "))
+		c = int(input("enter the calue for c "))
+		if a == 0:
+		res, x1 = linear(b, c)
+ 
